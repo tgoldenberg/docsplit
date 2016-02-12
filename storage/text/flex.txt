@@ -1,0 +1,4501 @@
+FreeAgent® GoFlex™ Home User Guide
+
+FreeAgent® GoFlex™ Home User Guide
+© 2011 Seagate Technology LLC. All rights reserved. Seagate, Seagate Technology, the Wave
+logo, and FreeAgent are trademarks or registered trademarks of Seagate Technology LLC, or one
+of its affiliates. All other trademarks or registered trademarks are the property of their respective
+owners. When referring to hard drive capacity, one gigabyte, or GB, equals one billion bytes and one
+terabyte, or TB, equals one thousand billion bytes when referring to hard drive capacity. In addition,
+some of the listed capacity is used for formatting and other functions, and thus will not be available
+for data storage. Quantitative usage examples for various applications are for illustrative purposes.
+Actual quantities will vary based on various factors including file size, file format, features, and
+application software. Seagate reserves the right to change, without notice, product offerings or
+specifications.
+Seagate Technology LLC
+920 Disc Drive
+Scotts Valley CA 95066 U.S.A.
+
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+About This Guide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+System Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Getting to Know GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Special Features of GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+About Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+2. Setting Up GoFlex Home – Windows . . . . . . . . . . . . . . . . . . . . . . . 12
+Step 1: Familiarizing Yourself with the Setup Process . . . . . . . . . . . . . . . . 12
+Step 2: Connecting GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Step 3: Installing the Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Step 4: Setting Up GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Step 5: Adding a User to GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Step 6: Adding PCs to GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Next Steps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+3. Setting Up GoFlex Home – Mac . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Step 1: Familiarizing Yourself with the Setup Process . . . . . . . . . . . . . . . . 23
+Step 2: Connecting GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Step 3: Setting Up GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Step 4: Installing GoFlex Home Desktop Applications . . . . . . . . . . . . . . . . 29
+Step 5: Configuring Time Machine for GoFlex Home . . . . . . . . . . . . . . . . . 31
+Step 6: Setting Up More Mac Computers . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Next Steps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+4. Getting Started with GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Opening the Seagate Dashboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Opening Seagate Share . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Getting to Know Your GoFlex Home Folders . . . . . . . . . . . . . . . . . . . . . . . 43
+Copying Your Files to GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Backing Up Your Files to GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+3
+
+Accessing and Enjoying Your Files on Your Home Network . . . . . . . . . . . . 48
+Accessing and Enjoying Your Files When You’re Away from Home . . . . . . 50
+Sharing Your Files with Friends and Family . . . . . . . . . . . . . . . . . . . . . . . . 50
+Setting Up a Centralized Printer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Enjoying Your Files on a Digital Media Player or Game Console . . . . . . . . 55
+
+5. Enjoying and Managing Your Files in Seagate Share . . . . . . . . . . 57
+Playing Music . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Playing Movies and Videos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Enjoying Your Photos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Managing Files and Folders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Managing Your Shares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Accessing Your GoFlex Home Files Using FTP . . . . . . . . . . . . . . . . . . . . . 69
+
+6. Managing GoFlex Home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Changing Your Own GoFlex Home Password . . . . . . . . . . . . . . . . . . . . . . 70
+Customizing Your GoFlex Home User Settings . . . . . . . . . . . . . . . . . . . . . 70
+Adding New GoFlex Applications to Your Computer . . . . . . . . . . . . . . . . . . 71
+Adding and Managing User Accounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Managing GoFlex Home and Connected Devices . . . . . . . . . . . . . . . . . . . 75
+Adding More Storage Capacity to GoFlex Home . . . . . . . . . . . . . . . . . . . . 75
+Managing GoFlex Home Settings and Preferences . . . . . . . . . . . . . . . . . . 78
+
+7. Using GoFlex Access . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+About GoFlex Access . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Installing GoFlex Access on Your Device . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+Connecting to GoFlex Home from Your Device . . . . . . . . . . . . . . . . . . . . . 81
+Playing Video . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Playing Music . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Viewing Pictures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Playing Protected Content from iTunes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+
+8. Solving Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Common Problems and Solutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+4
+
+Decoding the GoFlex Home Lights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Finding More Help . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+5
+
+1. Introduction
+
+About This Guide
+
+1. Introduction
+The FreeAgent® GoFlex™ Home network storage system lets you use one external drive for
+all the computers in your home. With enough capacity to support multiple computers and
+users, you can easily store all of your files in one centralized location, while automatically and
+continuously backing up the files and folders on every computer in your home.
+Setup is as simple as connecting to your Wi-Fi router, and in just minutes, you can begin
+wirelessly accessing files and streaming photos, music and movies to personal computers
+(PCs), Mac® computers, and game consoles. Plus, you can share a printer with every
+computer in the home by simply connecting it to the USB port on GoFlex Home.
+
+About This Guide
+This User Guide introduces the features of GoFlex Home, describes how to set up your
+GoFlex Home network storage system, and explains how to use GoFlex Home to share and
+store your files, back up your files, and access your files from anywhere in the world.
+This User Guide also provides detailed instructions for using Seagate Share, a Web-based
+application that allows you to access your files on GoFlex Home over the Internet, as well as
+share files with friends and family.
+For information not found in this guide and for the most up to date product documentation, go
+to www.seagate.com/goflexhomesupport
+Note:
+
+Some of the features described in this User Guide are available only on computers running the
+Windows operating system. Sections of the guide that describe Windows-only features are
+clearly marked.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+6
+
+1. Introduction
+
+System Requirements
+
+System Requirements
+To set up and use GoFlex Home, you need:
+•
+
+Home network (also called a Local Area Network, or LAN)
+
+•
+
+Wired or wireless router with an available Ethernet port
+
+•
+
+Internet connection for initial setup and for file sharing over the Web
+
+PCs accessing GoFlex Home require:
+•
+
+Pentium III 500 MHz-equivalent processor or higher
+
+•
+
+256 MB RAM
+
+•
+
+Windows® XP, Windows Vista®, or Windows 7 operating system
+
+•
+
+Internet Explorer® 6 or later, Firefox® 2.x or later, or Chrome 4.x or later Web browser
+
+Mac computers accessing GoFlex Home require:
+•
+
+Mac OS® X 10.5 or later operating system
+
+•
+
+Safari® 3.1 or later Web browser
+
+To use the GoFlex Access app for smartphones and tablets, devices require:
+•
+
+Apple® iOS 4.3 or higher
+
+•
+
+Android™ 2.2 or higher
+
+On Android devices, the Adobe® AIR® app must be installed.
+GoFlex Home works with most consumer home network equipment with no special settings
+required. However, if you have a business-grade router in your home, you may need to adjust
+its network settings.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+7
+
+1. Introduction
+
+Getting to Know GoFlex Home
+
+Getting to Know GoFlex Home
+
+GoFlex Drive
+
+GoFlex Home Drive Dock
+
+Drive Light
+Figure 1:
+
+GoFlex Home Indicator Light
+
+GoFlex Home Front
+
+•
+
+GoFlex Home Drive Dock: Compatible with any FreeAgent GoFlex Home or GoFlex
+Desk drives
+
+•
+
+GoFlex Home Drive: Provides 1 TB, 2 TB or 3 TB of storage space (depending on your
+model)
+
+•
+
+GoFlex Home Indicator Light: Provides information about GoFlex Home’s current state:
+
+•
+
+•
+
+Green blinking: GoFlex Home is starting up.
+
+•
+
+Green steady: GoFlex Home is connected to the network and ready for use.
+
+•
+
+Amber blinking: GoFlex Home is not connected to the network.
+
+Drive Light: Provides information about the drive’s current state:
+•
+
+White steady: GoFlex drive is installed in dock and ready for use.
+
+•
+
+White off: GoFlex drive is not installed or is experiencing a problem.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+8
+
+1. Introduction
+
+Special Features of GoFlex Home
+
+Power Port
+Power Button
+
+Reset Button
+USB Port
+
+Ethernet Port and Lights
+Figure 2:
+
+GoFlex Home Back
+
+•
+
+Power Button: Turns GoFlex Home on and off.
+
+•
+
+Power Port: Connects GoFlex Home to a power source.
+
+•
+
+Ethernet Port: Connects GoFlex Home to your router.
+•
+
+Ethernet Port Lights: Indicate network activity when blinking.
+
+•
+
+USB Port: Connects GoFlex Home to a USB device, such as a drive or printer.
+
+•
+
+Reset Button: Resets the GoFlex Home password; resets GoFlex Home to its original
+factory settings (normally not necessary—see page 77 for more information).
+
+Special Features of GoFlex Home
+•
+
+Instant Backup: GoFlex Home protects your important files with automatic, “set it and
+forget it” file backup using Memeo™ Instant Backup (Windows only), and is also Time
+Machine®-compatible for Mac computers.
+
+•
+
+Centralized Storage: GoFlex Home is a central location for storing digital media (music,
+photos, movies) and other household files you want to share with everyone on your home
+network. You can store Windows- and Mac-compatible files all in one place.
+
+•
+
+User Accounts: Up to five people/computers on your home network can access GoFlex
+Home. (You can upgrade to unlimited accounts by subscribing to Seagate Share Pro.
+See page 10 for more information.)
+
+•
+
+Remote Access: GoFlex Home provides access to your digital content from anywhere
+inside or outside your home, using the Web-based Seagate Share application. You can
+even access GoFlex Home from your smartphone, such as an iPhone® or Android
+device, or from another portable entertainment device, such as an iPad®.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+9
+
+1. Introduction
+
+Special Features of GoFlex Home
+
+•
+
+Centralized Printing: If you connect a printer to the USB port on your GoFlex Home,
+everyone on your home network can wirelessly print from that one printer. See page 54
+for more information.
+
+•
+
+Music and Video Streaming (DLNA): Everyone on your home network can stream music,
+movies, and videos to their computer or to a digital media device, such as a FreeAgent
+GoFlex TV, from GoFlex Home. (DLNA stands for Digital Living Network Alliance, and is a
+technology that allows you to enjoy the digital media files stored on your GoFlex Home on
+a digital media device.)
+
+•
+
+Seagate Dashboard: This software serves as a central location from where you can
+access all of GoFlex Home’s features (Windows only).
+
+•
+
+Easy Expansion: If you require additional storage capacity in the future, you can easily
+remove and replace the drive in GoFlex Home—no tools required. You can also connect
+an external USB drive directly to GoFlex Home for even more storage space. See
+page 75 for more information.
+
+About Seagate Share Pro
+Unlimited user accounts and other handy features are available with an upgrade to Seagate
+Share Pro, which provides premium service options that are available for purchase.
+Seagate Share Pro includes:
+•
+
+Access to GoFlex Home and Seagate Share for an unlimited number of people.
+
+•
+
+Integration with Facebook® and Flickr®, which lets you easily copy your GoFlex Home
+photos to your online accounts.
+
+•
+
+The 3D wall interface by Cooliris, which enhances your enjoyment of your GoFlex Home
+photos.
+
+•
+
+Secure remote access to GoFlex Home with FTPS.
+
+•
+
+Integrated RSS (Really Simple Syndication) feeds, which make it effortless to keep
+friends and family updated with your latest shared files, such as vacation photos.
+
+To learn more about these and other Seagate Share Pro features, click Learn More under
+Seagate Share Pro in the Seagate Dashboard Application Store.
+
+About Premium Backup
+If you would like to back up more than three PCs to your GoFlex Home, you can purchase a
+Premium Backup software upgrade from the Application Store on your Seagate Dashboard.
+Premium Backup software allows you to back up an unlimited number of PCs to your GoFlex
+Home.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+10
+
+1. Introduction
+
+About Security
+
+About Security
+The Seagate Share feature provides remote access to your files and allows you to share your
+content with friends and family outside of your home. Files and folders are private by default.
+Your data is available only to those with whom you choose to share. Although your files are
+forwarded to the recipients you choose when sharing, no copies from your GoFlex Home are
+created or stored elsewhere. Your data remains safe and secure on your GoFlex Home
+device.
+All user name and password transmissions to/from the Seagate Share central server are
+authenticated and forced through the secure HTTPS protocol (Hypertext Transfer Protocol
+Secure).
+If UPnP is enabled on your router, the data you choose to share transfers directly between
+GoFlex Home device and the recipient’s Web browser or mobile device. If UPnP is not
+enabled, sharing occurs through the Seagate Share central server and the recipient’s Web
+browser or mobile device; however, none of your data or personal information is tracked or
+stored by the central server during or after the process.
+The GoFlex Home hardware and software are built to be secure against hacking and prevent
+execution of macros or code from arbitrary third parties. You can increase the level of
+security by enabling firewall and WEP/WPA protection on your router.
+See http://support.goflexhome.hipserv.com/en/security/ for more information about security.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+11
+
+2. Setting Up GoFlex Home – Windows
+
+Step 1: Familiarizing Yourself with the Setup Process
+
+2. Setting Up GoFlex Home – Windows
+Setting up GoFlex Home is easy. This chapter explains each step and provides suggestions
+and options for getting the most out of GoFlex Home.
+
+Step 1: Familiarizing Yourself with the Setup Process
+Before you begin, familiarize yourself with the steps you’ll follow while setting up GoFlex
+Home, and with the folders that GoFlex Home creates automatically for you during setup.
+
+Main Setup Steps
+•
+
+Connect GoFlex Home (as described in the printed Quick Start Guide).
+
+•
+
+Name, activate, and register GoFlex Home.
+
+•
+
+Install the software on your own computer:
+•
+
+Seagate Dashboard, for access to all GoFlex Home features
+
+•
+
+Memeo Instant Backup, for automatic file backups
+
+•
+
+Create individual user accounts and passwords for everyone on your home network.
+
+•
+
+Install the software on the other Windows computers on your home network (or set up
+Mac computers—see page 23).
+
+See “Step 2: Connecting GoFlex Home” on page 13 for complete instructions.
+
+Understanding GoFlex Home’s Automatic Folder Creation
+When you create your own user account and password during setup, three folders are
+automatically created on GoFlex Home for you:
+•
+
+A Public folder, where files can be stored and accessed by everyone on your home
+network.
+
+•
+
+A Personal folder that only you can access, where you can store personal or private files
+that you don’t want anyone else on your home network to see.
+
+•
+
+A Backup folder that only you can access, where all your backup files are stored.
+
+GoFlex Home also automatically creates Personal and Backup folders for each user account
+you create for the members of your household. Once setup is complete, each member of
+your household can upload their own digital media and other files to GoFlex Home by
+dragging and dropping files from their computers to the folders of their choice. For more
+information, see “Copying Your Files to GoFlex Home” on page 44.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+12
+
+2. Setting Up GoFlex Home – Windows
+
+Step 2: Connecting GoFlex Home
+
+Step 2: Connecting GoFlex Home
+1. Unpack the box and ensure you have these items before continuing:
+
+GoFlex Drive
+
+GoFlex Home Dock
+
+Power Adapter
+
+Ethernet Cable
+Figure 3:
+
+Quick Start Guide
+
+Installation CD
+
+Package Contents
+
+2. Ensure the Power button on the GoFlex Home dock is in the Off position before you begin,
+then connect GoFlex Home:
+a. Connect the supplied Ethernet cable to your router and to the Ethernet port on GoFlex Home.
+b. Connect the supplied power adapter (DC 12V) to a power outlet and to the power port on
+GoFlex Home.
+Power Button in Off Position
+
+Figure 4:
+
+Connecting the Cables
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+13
+
+2. Setting Up GoFlex Home – Windows
+
+Step 2: Connecting GoFlex Home
+
+3. Connect the drive to the dock, then press the Power button to the On position.
+a. Align the connector on the bottom of the drive with the connector in the base.
+b. Gently press down on the drive until it clicks into place.
+c. Press the Power button.
+
+Figure 5:
+
+Docking the GoFlex Drive
+
+4. Wait for the lights on the front of GoFlex Home to stop blinking. This may take a couple of
+minutes.
+
+Drive Light:
+Solid white when ready
+Figure 6:
+
+GoFlex Home Light:
+Solid green when ready
+
+GoFlex Home Lights
+
+If the GoFlex Home light is not solid green, wait about two minutes to make sure that GoFlex
+Home has had a chance to fully start up; if it’s blinking amber, GoFlex Home either can’t
+connect to the network or can’t communicate with the drive. See “Solving Problems” on
+page 84 for more help.
+If the drive light is not on, it means that the drive is not securely connected on the dock. Press
+the Power button to the Off position, remove the drive, then re-seat it on the dock so that it
+clicks into place.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+14
+
+2. Setting Up GoFlex Home – Windows
+
+Step 3: Installing the Software
+
+Step 3: Installing the Software
+1. Power on your computer, then insert the GoFlex Home Installation CD.
+Note:
+
+If you are setting up GoFlex Home on a computer or device without a CD-ROM drive, go to
+www.seagate.com/goflexhomesupport to download the installation software.
+
+Note:
+
+If you would like to activate GoFlex Home without installing the included software, open a
+browser and enter http://goflex_home or http://<GoFlex Home IP address> in the Address
+field to start the setup process. Make sure the GoFlex Home is connected to your network
+before proceeding.
+
+2. When the Welcome screen opens, choose a language, then click OK.
+A setup wizard opens.
+TIP: If the Setup wizard doesn’t open automatically, open Explorer, navigate to the CD,
+then double-click SeagateDashboardSetup.exe.
+3. Follow the on-screen instructions to install the Seagate Dashboard and Memeo Instant
+Backup software applications.
+4. When the installation is complete, click Finish, then continue with "Step 4: Setting Up GoFlex
+Home".
+
+Step 4: Setting Up GoFlex Home
+TIP: Before you continue, make sure you have a pen and paper handy to keep track of the
+names and passwords you need to create during setup.
+When the software is installed, the setup wizard opens automatically. This may take a few
+moments.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+15
+
+2. Setting Up GoFlex Home – Windows
+
+Step 4: Setting Up GoFlex Home
+
+The wizard finds and connects your computer to GoFlex Home, then the Device Information
+screen opens.
+
+Figure 7:
+
+Adding Device Information
+
+If your computer can’t connect to GoFlex Home, see “Solving Problems” on page 84.
+1. Enter a name for GoFlex Home.
+The name must start with a letter and must be at least three characters in length. You can use
+letters, numbers, dashes, dots, and underscores. Spaces are not allowed.
+Because you can access GoFlex Home over the Internet, the device must have a unique
+name. Use the Check Availability button to ensure the name you want is available.
+If the Product Key hasn’t been entered automatically, find it on the bottom of the GoFlex Home
+base and enter it in the Product Key fields.
+2. Click Next.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+16
+
+2. Setting Up GoFlex Home – Windows
+
+Step 4: Setting Up GoFlex Home
+
+GoFlex Home is activated, and the Account Information screen opens.
+
+Figure 8:
+
+Creating the First User Account
+
+3. Create an administrator account for yourself by entering a user name and password.
+Passwords must be at least six characters long and must include one number. Passwords
+are case-sensitive.
+Enter an e-mail address that can be used for occasional system messages. You will receive a
+system message if there is a problem with the drive, if the drive is full, or if your Seagate Share
+Pro subscription is expiring soon.
+4. Click Next.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+17
+
+2. Setting Up GoFlex Home – Windows
+
+Step 4: Setting Up GoFlex Home
+
+The Registration screen opens.
+
+Figure 9:
+
+Registering GoFlex Home
+
+5. Select your country and enter an e-mail address for registration purposes, then click Next.
+GoFlex Home is named, activated, and ready to use.
+
+Figure 10:
+
+Setup Complete
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+18
+
+2. Setting Up GoFlex Home – Windows
+
+Step 5: Adding a User to GoFlex Home
+
+6. Click Launch Seagate Dashboard.
+The Seagate Dashboard opens.
+
+Figure 11:
+
+Seagate Dashboard
+
+The Seagate Dashboard is the central location from which you can access all of GoFlex
+Home’s features. See page 35 for more information.
+7. Continue setting up GoFlex Home for your household by adding user accounts for other
+members of your household (see Step 5: Adding a User to GoFlex Home) and adding more
+computers to your GoFlex Home network storage system (see "Step 6: Adding PCs to
+GoFlex Home").
+
+Step 5: Adding a User to GoFlex Home
+Everyone who needs access to GoFlex Home requires their own user account. Your GoFlex
+Home includes five user accounts.
+TIP: You can upgrade to unlimited accounts (and add other useful GoFlex Home features)
+by subscribing to Seagate Share Pro. See “About Seagate Share Pro” on page 10 for
+more information.
+To add new user accounts to GoFlex Home:
+1. In the How to... panel of the Seagate Dashboard, click Add Users.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+19
+
+2. Setting Up GoFlex Home – Windows
+
+Step 5: Adding a User to GoFlex Home
+
+The Add Users window opens.
+
+Figure 12:
+
+Creating Additional User Accounts
+
+2. Enter a user name.
+User names must start with a letter and must be at least three characters in length. User
+names are not case-sensitive. You can’t use the same user name twice on GoFlex Home.
+3. Enter and confirm a password for the user.
+Passwords must be at least six characters long and must include one number. Passwords are
+case-sensitive.
+TIP: When entering passwords, balance convenience and security appropriately for your
+household. For instance, you might have the members of your household choose their
+own passwords, but enter and keep track of them yourself so that you can act as the
+home network manager in case a password is forgotten or another issue arises. Or,
+you might have the members of your household enter their own passwords in private,
+so that only they can access the files they store in their Personal and Backup folders.
+4. Select Allow this user to create, modify, and delete user accounts if you want this person
+to be able to do the same home network manager tasks as you.
+5. Click Add User.
+The user account is created, and the person can begin using GoFlex Home as soon as their
+computer is added to your GoFlex Home network storage system (see page 21).
+6. Click Add Another User to continue creating user accounts (repeating the steps in this
+section), or click Done.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+20
+
+2. Setting Up GoFlex Home – Windows
+
+Step 6: Adding PCs to GoFlex Home
+
+When you’re done creating user accounts, continue with "Step 6: Adding PCs to GoFlex
+Home".
+
+Step 6: Adding PCs to GoFlex Home
+Note:
+
+You can use both PC and Mac computers with GoFlex Home. See “Step 6: Setting Up More
+Mac Computers” on page 33 to add Macs to your GoFlex Home.
+
+To add a PC to your GoFlex Home network storage system, you must install the GoFlex
+Home software—Seagate Dashboard and Memeo Instant Backup. (GoFlex Home includes
+access to Memeo Instant Backup for up to three computers.) You can create up to five
+GoFlex Home user accounts for people/computers on your home network.
+TIP: You can upgrade to unlimited users and computers (and add other useful GoFlex
+Home features) by subscribing to Seagate Share Pro. See “About Seagate Share Pro”
+on page 10 for more information.
+To add a PC to GoFlex Home:
+1. Power on the PC you want to add, then insert the GoFlex Home Installation CD.
+Note:
+
+If you are setting up GoFlex Home on a computer or device without a CD-ROM drive, go to
+www.seagate.com/goflexhomesupport to download the installation software.
+
+2. Follow the on-screen instructions to complete the installation.
+When the software is installed, the GoFlex Home setup wizard opens automatically. When it
+finds and connects your computer to GoFlex Home, the Log-in screen opens.
+
+Figure 13:
+
+Adding Another Computer
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+21
+
+2. Setting Up GoFlex Home – Windows
+
+Next Steps
+
+3. Have the computer’s regular user log in by choosing their user name and entering their
+password, then clicking Log In & Launch Seagate Dashboard. Remember that passwords
+are case-sensitive.
+4. Repeat the steps in this section until you have added all the household PCs to your GoFlex
+Home network storage system (as required).
+Your GoFlex Home network storage system is now fully set up and ready to use.
+
+Next Steps
+Now that GoFlex Home is set up, your next steps are to:
+•
+
+Copy files from your computer to your GoFlex Home folders (see page 44).
+
+•
+
+(Optional) Start automatic backups of the files on your computer (see page 46).
+
+•
+
+Learn how to access and enjoy your files from home and while travelling (see page 48
+and page 50).
+
+•
+
+Share selected files with friends and family (see page 50).
+
+•
+
+Set up a centralized printer (see page 54).
+
+Pass along these chapters of the User Guide to each member of your household:
+•
+
+“Getting Started with GoFlex Home” on page 35
+
+•
+
+“Enjoying and Managing Your Files in Seagate Share” on page 57
+
+•
+
+“Managing GoFlex Home” on page 70
+
+Don’t forget that you can add more user accounts and computers, enable access to GoFlex
+Home from smartphones, add other useful GoFlex Home features, or back up additional
+computers by subscribing to Seagate Share Pro or purchasing a Premium Backup software
+upgrade. See "About Seagate Share Pro" and “About Premium Backup” on page 10 for more
+information.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+22
+
+3. Setting Up GoFlex Home – Mac
+
+Step 1: Familiarizing Yourself with the Setup Process
+
+3. Setting Up GoFlex Home – Mac
+Setting up GoFlex Home is easy. This chapter explains each step and provides suggestions
+and options for getting the most out of GoFlex Home.
+
+Step 1: Familiarizing Yourself with the Setup Process
+Before you begin, familiarize yourself with the steps you’ll follow while setting up GoFlex
+Home, and with the folders that GoFlex Home creates automatically for you during setup.
+
+Main Setup Steps
+•
+
+Connect GoFlex Home (as described in the printed Quick Start Guide).
+
+•
+
+Name, activate, and register GoFlex Home.
+
+•
+
+Install the desktop applications on your Mac:
+•
+
+GoFlex Home Agent
+
+•
+
+SmartFolderShortcut (which allows you to access your files through Finder)
+
+•
+
+SmartWebShortcut (which opens the Seagate Share application in your browser)
+
+•
+
+Configure Time Machine to use GoFlex Home as your file/system backup device.
+
+•
+
+Install the desktop applications and configure Time Machine on other Mac computers on
+your home network (or set up Windows computers—see page 12).
+
+See “Step 2: Connecting GoFlex Home” on page 13 for complete instructions.
+
+Understanding GoFlex Home’s Automatic Folder Creation
+When you create your own user account and password during setup, three folders are
+automatically created on GoFlex Home for you:
+•
+
+A Public folder, where files can be stored and accessed by everyone on your home
+network.
+
+•
+
+A Personal folder that only you can access, where you can store personal or private files
+that you don’t want anyone else on your home network to see.
+
+•
+
+A Backup folder that only you can access, where all your backup files are stored.
+
+GoFlex Home also automatically creates Personal and Backup folders for each user account
+you create for the members of your household. Once setup is complete, each member of
+your household can upload their own digital media and other files to GoFlex Home by
+dragging and dropping files from their computers to the folders of their choice. For more
+information, see “Copying Your Files to GoFlex Home” on page 44.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+23
+
+3. Setting Up GoFlex Home – Mac
+
+Step 2: Connecting GoFlex Home
+
+Step 2: Connecting GoFlex Home
+For instructions, see “Step 2: Connecting GoFlex Home” on page 13.
+
+Step 3: Setting Up GoFlex Home
+TIP: Before you begin, make sure you have a pen and paper handy to keep track of the
+names and passwords you need to create during setup.
+1. Power on your computer, then insert the GoFlex Home Installation CD.
+Note:
+
+If you are setting up GoFlex Home on a computer or device without a CD-ROM drive, go to
+www.seagate.com/goflexhomesupport to download the installation software.
+
+Note:
+
+If you would like to activate the GoFlex Home without installing the included software, open a
+browser, type in goflexhome.local in the Address field, and press Enter to start the setup
+process. Make sure the GoFlex Home is connected to your network before proceeding.
+
+2. Double-click the GoFlex Home install CD icon that appears on your desktop.
+
+The Welcome screen opens.
+
+Figure 14:
+
+Welcome Screen
+
+3. Double-click GoFlex Home Setup to begin the installation.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+24
+
+3. Setting Up GoFlex Home – Mac
+
+Step 3: Setting Up GoFlex Home
+
+A screen appears indicating that files are being extracted from the archive, then the main setup
+screen opens.
+
+Figure 15:
+
+Main Setup Screen
+
+4. Click Step 1 Set Up Your GoFlex Home.
+The End User License Agreement screen appears.
+
+Figure 16:
+
+End User License Agreement
+
+5. Read the End User License Agreement, then click I Accept to continue the setup.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+25
+
+3. Setting Up GoFlex Home – Mac
+
+Step 3: Setting Up GoFlex Home
+
+The Registration screen appears.
+
+Figure 17:
+
+Naming and Registering GoFlex Home
+
+6. Enter a name for GoFlex Home.
+The name must start with a letter and must be at least three characters in length. You can use
+letters, numbers, dashes, dots, and underscores. Spaces are not allowed.
+Because you can access GoFlex Home over the Internet, the device must have a unique
+name. If the name you enter is not available, you will be prompted to select a new name.
+If the Product Key hasn’t been entered automatically, find it on the bottom of the GoFlex Home
+base and enter it in the Product Key boxes.
+7. Click Next.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+26
+
+3. Setting Up GoFlex Home – Mac
+
+Step 3: Setting Up GoFlex Home
+
+The Administrator Account Creation screen appears.
+
+Figure 18:
+
+Creating the First User Account
+
+8. Create a user account for yourself by entering a user name and password. The password must
+be at least six characters long and must include one number. Passwords are case-sensitive.
+9. Click Next.
+GoFlex Home is configured. (This may include an automatic software update.)
+
+Figure 19:
+
+Configuring and Updating GoFlex Home
+
+10. Click Next.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+27
+
+3. Setting Up GoFlex Home – Mac
+
+Step 3: Setting Up GoFlex Home
+
+The Notifications screen appears.
+
+Figure 20:
+
+Entering an E-mail Address
+
+11. Enter an e-mail address that can be used for occasional system messages. You will receive a
+system message if there is a problem with the drive, if the drive is full, or if your Seagate
+Share Pro subscription is expiring soon.
+12. Click Next.
+Your GoFlex Home device is now set up. The following screen appears.
+
+Figure 21:
+
+Finishing the Configuration Wizard
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+28
+
+3. Setting Up GoFlex Home – Mac
+
+Step 4: Installing GoFlex Home Desktop Applications
+
+13. Click Return to Setup.
+The main setup screen opens again. Continue by installing the desktop applications that let
+you access GoFlex Home from your computer.
+
+Step 4: Installing GoFlex Home Desktop Applications
+In this step, you install these applications:
+•
+
+GoFlex Home Agent
+
+•
+
+SmartFolderShortcut
+
+•
+
+SmartWebShortcut
+
+To install the desktop applications:
+1. On the main setup screen, click Step 2 Install Desktop Applications (Optional).
+The Welcome screen opens.
+
+Figure 22:
+
+Desktop Applications Installer Welcome Screen
+
+2. Click Continue.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+29
+
+3. Setting Up GoFlex Home – Mac
+
+Step 4: Installing GoFlex Home Desktop Applications
+
+The Destination Select screen opens.
+
+Figure 23:
+
+Destination Select Screen
+
+3. Select the disk where you want to install the software, then click Continue.
+The Installation Type screen opens.
+
+Figure 24:
+
+Installation Type Screen
+
+4. Click Install.
+If required, click Change Install Location..., adjust the settings, then click Install.
+5. When prompted, provide the Mac user name and password to install software.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+30
+
+3. Setting Up GoFlex Home – Mac
+
+Step 5: Configuring Time Machine for GoFlex Home
+
+When the installation is complete, the following screen appears.
+
+Figure 25:
+
+Installation Complete Screen
+
+6. Click Close.
+The main setup screen opens again. Continue by configuring Time Machine to use GoFlex
+Home as your file backup device.
+
+Step 5: Configuring Time Machine for GoFlex Home
+TIP: If you don’t want to use Time Machine backup software with GoFlex Home, you can
+use a complimentary Mac version of Memeo Backup provided in a stand-alone folder
+on the GoFlex Home Installation CD.
+If you are setting up GoFlex Home on a computer or device without a CD-ROM drive,
+go to www.seagate.com/goflexhomesupport to download the installation software.
+To configure Time Machine so that it backs up your important files to GoFlex Home:
+1. If you would like to learn more about Apple Time Machine, click Step 3 Windows/Time
+Machine Backup Configuration (Optional).
+A browser window opens, pointing to a page on the Apple web site with information about Time
+Machine.
+2. On the main setup screen, click Exit to dismiss the GoFlex Home setup screen.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+31
+
+3. Setting Up GoFlex Home – Mac
+
+Step 5: Configuring Time Machine for GoFlex Home
+
+3. Go to System Preferences, and click on Time Machine to open Time Machine Preferences.
+
+Figure 26:
+
+Time Machine Preferences Screen
+
+4. Set Time Machine to ON.
+5. Click on Select Disk... and select GoFlex Home Backup.
+
+Figure 27:
+
+Selecting the GoFlex Home Drive for Backup
+
+6. Click Use Backup Disk.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+32
+
+3. Setting Up GoFlex Home – Mac
+
+Step 6: Setting Up More Mac Computers
+
+7. Enter the name and password for a user account you configured on the GoFlex Home.
+
+Figure 28:
+
+Entering Name and Password for a GoFlex Home User
+
+8. Click Connect to finish the Time Machine configuration and begin backing up your computer
+to the GoFlex Home.
+9. Remove the GoFlex Home Installation CD from your computer. Setup is complete on this
+computer.
+
+Step 6: Setting Up More Mac Computers
+Now that your GoFlex Home device is set up and you’ve created a user account for yourself,
+set up additional household computers (as required) to access your GoFlex Home network
+storage system.
+Note:
+
+You can use both PC and Mac computers with GoFlex Home. See “Step 6: Adding PCs to
+GoFlex Home” on page 21 to add PCs to your GoFlex Home.
+
+To set up another Mac computer:
+1. Power on the computer and insert the GoFlex Home Installation CD.
+Note:
+
+If you are setting up GoFlex Home on a computer or device without a CD-ROM drive, go to
+www.seagate.com/goflexhomesupport to download the installation software.
+
+The Welcome screen opens.
+2. Double-click the GoFlex Home install CD icon that appears on your desktop.
+3. Double-click GoFlex Home Setup to begin the installation.
+The main setup screen opens.
+4. Click Step 2 Install Desktop Applications (Optional), then follow the steps in “Step 4:
+Installing GoFlex Home Desktop Applications” on page 29.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+33
+
+3. Setting Up GoFlex Home – Mac
+
+Next Steps
+
+5. When the installation is complete and the main setup screen re-opens, click Step 3
+Windows/Time Machine Backup Configuration (Optional), then follow the steps in “Step
+5: Configuring Time Machine for GoFlex Home” on page 31.
+6. Repeat the steps in this section until you have added all the household Mac computers to
+your GoFlex Home network storage system (as required).
+Your GoFlex Home network storage system is now fully set up and ready to use.
+
+Next Steps
+Now that GoFlex Home is set up, your next steps are to:
+•
+
+Copy files from your computer to your GoFlex Home folders (see page 44).
+
+•
+
+Learn how to access and enjoy your files from home and while travelling (see page 48
+and page 50).
+
+•
+
+Share selected files with friends and family (see page 50).
+
+•
+
+Set up a centralized printer (see page 54).
+
+Pass along these chapters of this User Guide to each member of your household:
+•
+
+“Getting Started with GoFlex Home” on page 35
+
+•
+
+“Enjoying and Managing Your Files in Seagate Share” on page 57
+
+•
+
+“Managing GoFlex Home” on page 70
+
+Don’t forget that you can add more user accounts and computers, add other useful GoFlex
+Home features, or back up additional computers by subscribing to Seagate Share Pro or
+purchasing a Premium Backup software upgrade. See "About Seagate Share Pro" and
+“About Premium Backup” on page 10 for more information.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+34
+
+4. Getting Started with GoFlex Home
+
+Opening the Seagate Dashboard
+
+4. Getting Started with GoFlex Home
+Now that GoFlex Home is set up, everyone in your household can begin sharing digital media
+and other files, storing files on GoFlex Home and accessing them from anywhere on the
+Internet, and backing up the files on their computers to GoFlex Home.
+This chapter introduces the Seagate Dashboard and Seagate Share, the two applications
+you use to access and manage GoFlex Home. It explains how to copy files from your
+computer to your GoFlex Home folders, describes how to access your files when you’re
+home or away from home, and provides getting-started tips for enjoying other popular GoFlex
+Home features.
+
+Opening the Seagate Dashboard
+The Seagate Dashboard is the central location from which you can access all the features of
+GoFlex Home. The Dashboard software is installed on Windows computers during setup.
+Note:
+
+The Seagate Dashboard is available on Windows computers only. Mac users must use
+Seagate Share, the included Web-based application, to store, share, and access files on
+GoFlex Home. (See “Opening Seagate Share” on page 38 for more information.) Windows
+users can use either application.
+
+You can open the Seagate Dashboard three ways:
+•
+
+Double-click the Seagate Dashboard icon on your desktop.
+
+Figure 29:
+
+•
+
+Desktop Icon
+
+Double-click the Seagate Dashboard system tray icon on your desktop.
+Seagate Dashboard System Tray Icon
+
+Figure 30:
+
+•
+
+System Tray Icon.
+
+From the list of programs on the Start menu, select Seagate Dashboard > Seagate
+Dashboard.
+
+The Seagate Dashboard opens.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+35
+
+4. Getting Started with GoFlex Home
+
+Opening the Seagate Dashboard
+
+Drives:
+Basic Information About Your
+GoFlex Drive
+
+How to...:
+Setup Shortcuts
+
+My Applications:
+Shortcuts to Your
+GoFlex Home Applications
+
+Application Store:
+Other Applications
+Available for Trial or
+Purchase and Installation
+
+Figure 31:
+
+Seagate Dashboard
+
+Navigating the Seagate Dashboard
+The Seagate Dashboard has four main panels:
+•
+
+Drives panel—The Drives panel shows the drive(s) connected to your computer and
+those found on your network. A capacity gauge of the drive’s used and free space is also
+shown. Click the drop-down arrow to display other connected drives.
+
+•
+
+How to... panel—Provides shortcuts to common setup tasks, and can be hidden by
+pressing the minus sign (-) once setup is complete.
+
+•
+
+My Applications panel—Provides shortcuts to the GoFlex Home applications installed
+on your computer.
+
+•
+
+Application Store panel—Lists other applications that are available for your computer,
+and provides links to trial versions.
+
+Click ? (the online Help icon) in the top right corner to open the Seagate Dashboard online
+Help.
+Click Change in the top right corner to change which user is logged in to the Dashboard (see
+page 37).
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+36
+
+4. Getting Started with GoFlex Home
+
+Opening the Seagate Dashboard
+
+The Seagate Dashboard Features
+From the Dashboard, you can:
+•
+
+Copy content from your computer to GoFlex Home (see page 44).
+
+•
+
+Share files in the GoFlex Home Public folder and access the files you’ve stored in GoFlex
+Home Personal (see page 48).
+
+•
+
+Back up the files on your computer to GoFlex Home, using Memeo Instant Backup (see
+page 46).
+
+•
+
+Share files with family and friends, using Seagate Share (see page 57).
+
+•
+
+Change your GoFlex Home password (see page 70).
+
+•
+
+Add new users to your GoFlex Home network storage system, and edit existing user
+accounts—permission required (see page 72).
+
+•
+
+Manage your GoFlex Home network storage system—permission required (see
+page 70).
+
+•
+
+Try new applications for free from the Application Store, or purchase and install new
+applications like Memeo Premium Backup (see page 71) or Seagate Share Pro (see
+page 10).
+
+•
+
+Log in to GoFlex Home as a different user (see the next section).
+
+Logging In to the Seagate Dashboard
+You log in to the Seagate Dashboard for the first time during setup (see page 12), and you
+remain logged in even when you shut down your computer. You don’t need to log in each time
+you open the Dashboard.
+However, you can log in to the Dashboard from any computer that’s connected to GoFlex
+Home, even if someone else is already logged in with their own account. By logging in as
+yourself, you gain access to your own GoFlex Home folders.
+Note:
+
+Changing users on the Dashboard interrupts any file backup plan set up on the computer (see
+page 46). If you have logged in to the Dashboard on someone else’s computer, allow them to
+log in again as soon as possible for their current backup plan to continue uninterrupted.
+
+To log in to the Dashboard when someone else is already logged in:
+1. Open the Seagate Dashboard on the computer (see page 35).
+2. Click Change next to the user name on the top right of the Dashboard.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+37
+
+4. Getting Started with GoFlex Home
+
+Opening Seagate Share
+
+The Change User dialog box displays.
+
+Figure 32:
+
+Seagate Dashboard: Changing Users
+
+3. Select your user name, enter your password, then click Log In.
+You are now logged in to the Dashboard.
+
+Updating the Seagate Dashboard
+To check for updated versions of the Seagate Dashboard:
+1. Open the Seagate Dashboard (see page 35).
+2. Click ? (the online Help icon) in the top right corner of the Dashboard, then select Check for
+Updates.
+If a newer version of the Dashboard is available, follow the on-screen instructions to install it.
+
+Opening Seagate Share
+Seagate Share is a Web-based application that lets you access GoFlex Home even when
+you’re not on your home network. If you have an Internet connection and a computer, you
+can use Seagate Share to watch movies, listen to music, view photos, or work with other files
+stored on GoFlex Home from anywhere in the world. You can also share your files with
+friends and family. (You can even access GoFlex Home from your smartphone or tablet. See
+“Using GoFlex Access” on page 81 for more information.)
+Seagate Share is not installed on your computer; it runs in your Web browser and provides
+many of the same features as the Seagate Dashboard. In Seagate Share, you can copy files
+from your computer to GoFlex Home, then access and work with them the same way you
+would if they were on your computer. You can also add and change user accounts, manage
+the GoFlex drive and any external USB drive connected to GoFlex Home, and change other
+GoFlex Home settings.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+38
+
+4. Getting Started with GoFlex Home
+
+Opening Seagate Share
+
+Mac users must use Seagate Share to access and manage GoFlex Home. Windows users
+can choose to use the Seagate Dashboard while they’re on their home network, but must use
+Seagate Share to access GoFlex Home when they’re not at home.
+To open Seagate Share:
+1. Open your Web browser, then navigate to www.seagateshare.com
+OR
+
+(Windows only) Open the Seagate Dashboard (see page 35), then click Seagate Share.
+OR
+
+(Mac only) Start Finder, browse to Applications > GoFlex Home Desktop Applications, and
+then launch SmartWebShortcut.
+Seagate Share opens.
+2. If prompted, enter the name of your GoFlex Home. (The name was created during setup. If
+you don’t know the name, check with the person who set up your GoFlex Home.) Then, enter
+your user name and password.
+3. (Optional) Select Remember Me so you don't have to re-enter your password the next time
+you log in.
+4. Click Sign In.
+TIP: If you open Seagate Share from the Dashboard or from SmartWebShortcut, you don’t
+have to sign in.
+The Seagate Share Home page opens. (This may take a few moments.)
+
+Figure 33:
+
+Seagate Share Home Page
+
+5. Click Seagate Share.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+39
+
+4. Getting Started with GoFlex Home
+
+Opening Seagate Share
+
+The Seagate Share page opens.
+Search/View Toolbar
+
+Navigation Toolbar
+
+Content
+Panel
+
+Shares
+Panel
+Main
+Panel
+
+Figure 34:
+
+Seagate Share page
+
+6. Click OK to close the Tip box, if necessary.
+
+Navigating Seagate Share
+The Seagate Share page has five sections:
+•
+
+Content panel: Lists your three GoFlex Home folders. Any external USB drive connected
+to your GoFlex Home appears in the Content panel as an External Storage folder. You
+can use the plus (+), minus (-), and arrow ( ) buttons in the Content panel to add a
+folder, delete a folder, and upload new files to GoFlex Home.
+Click on any folder in the Content panel to view its contents in the Main panel to the right.
+
+•
+
+Shares panel: Lists your shares—collections of photos, music, movies, or other
+documents that you’ve assembled from the files in your GoFlex Home folders. You can
+create shares for your own enjoyment, or invite family and friends (or everyone on the
+Internet) to view them as well. You can use the plus (+) and minus (-) buttons in the
+Shares panel to add and delete shares.
+Click on any share to view its contents in the Main panel to the right.
+
+•
+
+Main panel: Displays the contents of folders and shares, when they’re selected in one of
+the left-hand panels.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+40
+
+4. Getting Started with GoFlex Home
+
+•
+
+Opening Seagate Share
+
+Search/View toolbar: Provides drop-down menus that you can use to sort, filter, and
+search your files and folders, making it easy to find what you’re looking for.
+The Search/View toolbar also lets you choose how you want to view your files and folders
+(in a list or as thumbnails, for instance). Select Shuffle to rearrange files in a selected
+folder in random order; select Cover to see your files in a Windows filmstrip-type view.
+(Seagate Share Pro users: Select Cooliris to open photos in the 3D image viewing tool in
+the Cooliris application. See page 60 for more information.)
+
+•
+
+Navigation toolbar: Includes the online Help menu, the Go To menu, and the sign-out
+feature. Use the Go To menu to move between the pages of Seagate Share:
+•
+
+Home page (the first page that appears when you open Seagate Share)
+
+•
+
+Shares page (which lists only your shares)
+
+•
+
+Seagate Share page
+
+•
+
+Preferences page (which lists all customizable settings for GoFlex Home—see
+page 78 for more information)
+
+Completing Tasks Multiple Ways in Seagate Share
+Seagate Share provides several ways of doing the same task. As you become familiar with
+Seagate Share, you’ll find the method you’re most comfortable with.
+For instance, to move files to a share, you can:
+•
+
+Drag and drop the files and folders into the share.
+
+•
+
+Use the Copy and Paste options in the menu.
+
+•
+
+Use the Add to Share menu option. (See “Finding the Seagate Share Menus” on
+page 42 for more information on menus.)
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+41
+
+4. Getting Started with GoFlex Home
+
+Opening Seagate Share
+
+Finding the Seagate Share Menus
+You can do most of the tasks you want to do on Seagate Share (such as starting a slideshow,
+adding a folder to a share, starting a movie, or downloading a file) from the menus that appear
+when you move your mouse over the file or folder you want, then click the arrow that appears.
+
+Figure 35:
+
+Finding the Menu
+
+Seagate Share Features
+From Seagate Share, you can:
+•
+
+Copy content from your computer to GoFlex Home (see page 44).
+
+•
+
+Access all the files in the GoFlex Home Public folder and the files you’ve stored in the
+GoFlex Home Personal folder (see page 48).
+
+•
+
+Collect photos, music, movies, or other documents from multiple folders to create shares
+that your family and friends can enjoy (see page 57).
+
+•
+
+Select folders and files to share with digital media devices, such as a FreeAgent GoFlex
+TV and other DLNA compliant devices (see page 55).
+
+•
+
+Change your GoFlex Home password (see page 70) and customize other GoFlex Home
+user settings (see page 70).
+
+•
+
+Add and manage GoFlex Home user accounts (see page 72).
+
+•
+
+Manage your GoFlex Home and connected devices (see page 75) and change the
+preferences on your GoFlex Home device (see page 78).
+
+Seagate Share Pro Features:
+Seagate Share Pro is available by annual subscription, and includes these features:
+•
+
+Share photos on Facebook (see page 52) and Flickr (see page 53).
+
+•
+
+Share photos with everyone on the Internet and allow others to subscribe to your shares
+through RSS (Really Simple Syndication) feeds (see page 53).
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+42
+
+4. Getting Started with GoFlex Home
+
+Getting to Know Your GoFlex Home Folders
+
+•
+
+View photos in a 3D wall board using Cooliris (see page 60).
+
+•
+
+Secure remote access to GoFlex Home with FTPS (see page 69).
+
+For more information about Seagate Share and Seagate Share Pro, see “Enjoying and
+Managing Your Files in Seagate Share” on page 57.
+
+Getting to Know Your GoFlex Home Folders
+Every member of your household has access to three folders on GoFlex Home:
+•
+
+GoFlex Home Public: Folder where files can be shared with others on your home
+network. Use the Public folder to create a household media library of digital music,
+movies, videos, and photos (or other files) that everyone on your home network can
+access from their own computer.
+
+•
+
+GoFlex Home Personal: Folder that only you can see and access, where you can store
+personal or private files. You can access files stored in your Personal folder from any
+computer or smartphone on the Internet, inside or outside your home, by logging in to
+GoFlex Home with your user name and password.
+
+•
+
+GoFlex Home Backup: Folder that only you can see and access, where all your backup
+files are stored. See “Backing Up Your Files to GoFlex Home” on page 46 for more
+information.
+When you open My Computer (Windows), open Finder or launch SmartFolderShortcut
+(Mac), your GoFlex Home folders are listed as three separate drives. GoFlex Home
+contains one Personal folder for every GoFlex Home user account; however, the only one
+you see is the one that matches your user name and password.
+
+Figure 36:
+
+Your GoFlex Home Folders
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+43
+
+4. Getting Started with GoFlex Home
+
+Copying Your Files to GoFlex Home
+
+Privacy Limitations
+While the drive is docked in GoFlex Home, the contents of your Personal and Backup folders
+can be accessed only by you; however, the drive itself has no built-in access limitations. Keep
+in mind that as the drive is removable and can be connected directly to any computer using a
+different GoFlex Desk dock when deciding whether to store financial or other private
+information on GoFlex Home.
+
+Copying Your Files to GoFlex Home
+Your first step with GoFlex Home is to copy (or upload) files from your computer to GoFlex
+Home. You can choose which files you want to upload, and choose whether to share those
+files with others on your home network or keep them private and viewable only by you.
+Copying files to GoFlex Home does not delete them from your computer.
+To access your files once they’re stored on GoFlex Home, see “Accessing and Enjoying Your
+Files on Your Home Network” on page 48 and “Accessing and Enjoying Your Files When
+You’re Away from Home” on page 50.
+
+Copying Files to GoFlex Home Using the Seagate Dashboard
+1. Open the Seagate Dashboard (see page 35).
+2. In the How to... panel, click Load Content.
+The Load Content screen opens.
+
+Figure 37:
+
+Load Content Screen
+
+3. Click Open Windows Explorer.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+44
+
+4. Getting Started with GoFlex Home
+
+Copying Your Files to GoFlex Home
+
+Two Explorer windows open.
+Window 1 shows your My Documents folder
+
+Window 2 shows your GoFlex Home folders
+Figure 38:
+
+Copying Files to GoFlex Home
+
+4. In the first window, select the folders and files you want to copy from My Documents. Drag
+and drop them into either the GoFlex Home Public or GoFlex Home Personal folder in the
+other window. (You can also copy files from other locations on your computer besides My
+Documents.)
+The folders and files are copied to GoFlex Home. Depending on how big your files are, this
+may take a few moments to several minutes.
+
+Copying Files to GoFlex Home Using Seagate Share
+To copy files from your computer to GoFlex Home:
+1. Open Seagate Share and log in (see page 38).
+2. Click Seagate Share.
+The Seagate Share window opens.
+3. In the Content panel, select the folder where you want to copy your files, then click the up
+arrow ().
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+45
+
+4. Getting Started with GoFlex Home
+
+Backing Up Your Files to GoFlex Home
+
+The Upload window opens.
+
+Figure 39:
+
+Seagate Share: Upload Window
+
+4. (Small number of files) Click Manual Upload, click Add File, then browse to the file you want
+to upload. Repeat this step until all the files you want to copy are selected.
+Or,
+(Large number of files or folders) Click Drag and Drop. Open Finder or Windows Explorer, find
+the folders and files you want to copy, then drag and drop them into the Seagate Share Drag
+and Drop window.
+TIP: The Drag and Drop feature requires Java Virtual Runtime Machine.
+5. Click Upload.
+The folders and files are copied to GoFlex Home. Depending on how big your files are, this
+may take a few moments to several minutes.
+
+Backing Up Your Files to GoFlex Home
+Note:
+
+The tasks described in this section can be done on Windows computers only.
+Mac users—You can use Time Machine to back up your files to GoFlex Home. See “Step 5:
+Configuring Time Machine for GoFlex Home” on page 31 to get started. Refer to the Time
+Machine documentation on your computer for more information. If you don’t want to use Time
+Machine backup software with GoFlex Home, you can use a complementary Mac version of
+Memeo Instant Backup provided in a stand-alone folder on the GoFlex Home Installation CD.
+
+Backup Performance
+Depending on the amount of data you wish to back up, first-time backup of your computer to
+GoFlex Home could take a significant amount of time if done wirelessly. It is recommended
+that you connect an Ethernet cable from your computer directly to your router for the initial
+backup.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+46
+
+4. Getting Started with GoFlex Home
+
+Backing Up Your Files to GoFlex Home
+
+Transfer speeds are much greater if you connect your computer to a Gigabit Ethernet router
+or switch compared to a wireless connection. Once complete, all subsequent backups can
+occur wirelessly.
+
+About Memeo Instant Backup
+GoFlex Home includes Memeo Instant Backup software, a simple way to ensure your files
+are protected in case your computer is damaged, lost, or stolen. Once you start backups for
+your computer, Memeo Instant Backup automatically and continuously backs up every
+important file on your computer without any input from you.
+GoFlex Home includes access to Memeo Instant Backup for up to three computers.
+
+Starting Automatic Backups
+To start automatic backups of your computer:
+1. Open the Seagate Dashboard (see page 35).
+Note:
+
+Install the latest version of Memeo Backup if you are prompted to update the software. This
+ensures that GoFlex Home has the latest features.
+
+2. Click Instant Backup.
+Memeo Instant Backup opens.
+Memeo Instant Backup automatically scans your computer’s C drive and shows which files
+and folders will be backed up. You can change what will be backed up by clicking Advanced
+Options.
+3. Ensure that your GoFlex Home Backup folder is selected from the drop-down menu.
+4. Click Start Backup.
+Memeo Instant Backup backs up your files. This may take some time, depending on how
+many files you have. If necessary, you can pause and restart the backup.
+For additional information, refer to the Memeo Instant Backup Help. For more information
+about Memeo Instant Backup, click ? on the Seagate Dashboard to open the online Help.
+
+Continuous Backups
+From now on, any new file you add to your computer, and any existing file that you edit and
+save, is backed up automatically by Memeo Instant Backup. You don’t have to take any
+additional steps to ensure your files are protected.
+TIP: If you’re an advanced user, upgrade to Memeo Premium Backup for more features,
+options, and flexibility. Click Learn More under Premium Backup in the Seagate
+Dashboard Application Store.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+47
+
+4. Getting Started with GoFlex Home
+
+Accessing and Enjoying Your Files on Your Home Network
+
+Accessing and Enjoying Your Files on Your Home
+Network
+You can access your three folders on GoFlex Home from your home network or from
+anywhere in the world over the Internet. You can watch movies, listen to music, view photos,
+and open other files in the GoFlex Home Personal and Public folders the same way you
+would if they were stored directly on your computer. You can also edit, save, or delete files
+stored on GoFlex Home.
+From your home network, you can use the Seagate Dashboard or the Web-based Seagate
+Share application to access your folders; Mac users can also use the SmartFolderShortcut in
+Finder to access their files. When you’re away from home, whether you’re on a computer or a
+smartphone, you must use Seagate Share to access your files.
+This section explains how to access your files on your home network. For information about
+accessing your files when you’re away from home, see page 50.
+
+Accessing Your Files From the Seagate Dashboard
+Note:
+
+Mac users—You can use either Seagate Share or the SmartFolderShortcut to access your
+files. See the next sections for more information.
+
+From the Seagate Dashboard, you can view your three folders and their contents in a familiar
+folder view, the way they would appear in My Documents.
+To access your folders on GoFlex Home:
+1. Open the Seagate Dashboard (see page 35).
+2. In the My Applications panel, click Folder View.
+Your three GoFlex Home folders open in a Web browser, but in a folder view similar to My
+Documents.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+48
+
+4. Getting Started with GoFlex Home
+
+Figure 40:
+
+Accessing and Enjoying Your Files on Your Home Network
+
+Folder View
+
+TIP: You can also access your three GoFlex Home folders from My Computer by
+expanding My Network Places and clicking GoFlex Home.
+3. Watch movies, listen to music, view photos, and open other files from your GoFlex Home
+folders the same way you would if they were stored directly on your computer.
+
+Accessing Your Files From Seagate Share
+1. Open Seagate Share and log in (see page 38).
+2. Click Seagate Share.
+The Seagate Share window opens.
+3. In the Content panel, click the folder that contains the files you want.
+The files in that folder appear in the Main panel on the right.
+4. Watch movies, listen to music, view photos, and open other files from your GoFlex Home
+folders the same way you would if they were stored directly on your computer. See “Enjoying
+and Managing Your Files in Seagate Share” on page 57 for more information.
+
+Accessing Your Files with the SmartFolderShortcut
+Note:
+
+The tasks in this section are only available on Macs. Windows users must use the Seagate
+Dashboard or Seagate Share to access their files.
+
+On computers running the Mac operating system:
+1. Open your GoFlex Home folders in a familiar folder view by opening Finder, then clicking
+Applications > GoFlex Home Desktop Applications > SmartFolderShortcut.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+49
+
+4. Getting Started with GoFlex Home
+
+Accessing and Enjoying Your Files When You’re Away from Home
+
+2. Watch movies, listen to music, view photos, and open other files from your GoFlex Home
+folders the same way you would if they were stored directly on your computer.
+
+Accessing and Enjoying Your Files When You’re Away
+from Home
+You can access your three GoFlex Home folders from anywhere in the world over the
+Internet. Whether you’re on your computer, smartphone, or other device, you have to use
+Seagate Share to access your files remotely.
+You can watch movies, listen to music, view photos, and open other files in the GoFlex Home
+Personal and Public folders the same way you would if they were stored directly on your
+computer. You can also edit, save, or delete files stored on GoFlex Home.
+To access your files remotely, follow the instructions in “Accessing Your Files From Seagate
+Share” on page 49.
+See “About Security” on page 11 for information about the security methods used when
+accessing your files remotely and when sharing your files with others.
+
+Sharing Your Files with Friends and Family
+Once you have copied files to GoFlex Home, you can compile collections of music, movies,
+photos, and other documents to enjoy yourself or share with friends and family. (Seagate
+Share Pro subscribers can also share photos on Facebook and Flickr, and by RSS—Really
+Simple Syndication—feeds.)
+This section explains how to compile collections of files into shares, which are similar to
+folders, and make them available to others over the Internet.
+
+Creating a Share
+A share is a collection of related music, movies, photos, and documents that you assemble
+yourself from your GoFlex Home folders. A share doesn’t contain copies of your files, just
+references to files, so it takes up very little room on GoFlex Home. (If you delete a file from its
+folder, change the name of the file or folder it’s in, or move the file or folder, the file
+disappears from any share in which it’s included.)
+To create a share:
+1. Open Seagate Share and log in (see page 38).
+2. Click Seagate Share.
+The Seagate Share window opens.
+3. In the Shares panel, click the plus sign (+).
+The Create Share window opens.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+50
+
+4. Getting Started with GoFlex Home
+
+Sharing Your Files with Friends and Family
+
+4. Enter a name and a description for the share, then select a theme, which adds a background
+image to the share.
+5. Click inside the Share with box:
+•
+
+Enter at least one e-mail address, or click Address Book to add e-mail addresses from
+your address book.
+
+•
+
+Click Create to create the share and send an e-mail to your recipients, or click More
+Sharing Options to specify sharing options as follows:
+•
+
+Click Family Accounts to make your share available to everyone on your home
+network who can access your GoFlex Home.
+
+•
+
+Click Friends to make your share available to specific people outside your home
+network. Click Share until and then set a share-until date and add password
+protection to your share, if you want. Shares are read only. Your friends are not
+restricted from forwarding the e-mail, so keep this in mind when choosing with whom
+you share.
+
+Note:
+
+The first time you invite friends to view a share, Seagate Share prompts you for your e-mail
+address, which is used as the return address on the invitation sent by Seagate Share. You
+can change your e-mail address later, if you want (see page 70). If you choose to add
+password protection to your share, the people you invite to view it are prompted to create
+a password before they can view the share. (See “Setting Up and Managing an E-mail
+Address Book for Shares” on page 68 for more information.)
+
+•
+
+Click Everyone to make your share available (and searchable) on the Internet and
+through RSS feeds, then set a share-until date, if you want.
+
+•
+
+Click Media Devices to make your share available to the digital media devices on
+your home network (see page 55).
+
+6. By default, Allow Downloads is enabled, which lets others download the original, fullresolution version of all the files in the share. This is particularly useful for shares that include
+documents you want to share with others, because the share itself contains only a references
+to files, not copies of the files themselves.
+7. Click Create.
+The share is created.
+8. To add content to your share, in the Content panel, select the folder you want then drag and
+drop either the entire folder or selected files into the share.
+9. View your completed share by double-clicking the share in the Shares panel.
+The share opens, showing the background you chose and the description you added during
+setup. Within the share window, you have options to change the view of the contents, start a
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+51
+
+4. Getting Started with GoFlex Home
+
+Sharing Your Files with Friends and Family
+
+slide show, play music included in the share, and download the files in the share to your
+computer.
+10. Click the arrow in the share toolbar to return to the main Seagate Share page.
+Note:
+
+If you chose to allow specific people to access your share in Step 5, GoFlex Home
+automatically sends an e-mail to them, using your GoFlex Home e-mail address as the “from”
+address. See “Customizing Your GoFlex Home User Settings” on page 70 to learn how to set
+your GoFlex Home e-mail address.
+
+Copying Your Photos from GoFlex Home to Facebook
+Note:
+
+This feature is available to Seagate Share Pro subscribers only.
+
+If you create a share that includes pictures and photos, you can use GoFlex Home to create
+a photo album on your Facebook profile.
+To create a photo album on Facebook using your GoFlex Home share images:
+1. In the Shares panel, move your mouse over the share, click the arrow that appears, then click
+View Details.
+The Details panel opens.
+2. Click Social Networking Sites, then click the Share with Facebook box.
+The Service Authorization window opens. (This may take a few moments.)
+3. Click Facebook.
+Another window opens, prompting you to authorize Seagate Share to link with your Facebook
+account.
+4. If necessary, enter your Facebook account information, then close the browser window.
+5. Click Authorization Complete.
+6. Select an existing Facebook photo album, or create a new album, then click Submit.
+Seagate Share copies your photos from GoFlex Home to Facebook. (No music, movie, or
+document files in the share are copied to Facebook.)
+7. Log in to Facebook, then navigate to the photo album where your images are.
+8. Select the photos you uploaded, then click Approve Selected Photos. Once you have
+approved the photos, you can edit, organize and share them normally.
+If you add more photos to the same share on GoFlex Home, Seagate Share automatically
+copies them to Facebook. You must approve these new photos before they appear in your
+Facebook profile. Removing photos from the share doesn’t remove them from Facebook.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+52
+
+4. Getting Started with GoFlex Home
+
+Sharing Your Files with Friends and Family
+
+Copying Your Photos from GoFlex Home to Flickr
+Note:
+
+This feature is available to Seagate Share Pro subscribers only.
+
+If you create a share that includes pictures and photos, you can use GoFlex Home to add
+your photos to your Flickr photostream.
+To add your GoFlex Home share images to your Flickr photostream:
+1. In the Shares panel, move your mouse over the share, click the arrow that appears, then click
+View Details.
+The Details panel opens.
+2. Click Social Networking Sites, then click the Share with Flickr box.
+The Service Authorization window opens. (This may take a few moments.)
+3. Click Flickr.
+Another window opens, prompting you to authorize Flickr to use Seagate Share.
+4. If necessary, enter your Flickr account information, then click OK, I’ll Authorize It.
+5. Close the browser window, then click Authorization Complete.
+6. Select the default photostream, an existing set, or create a new set by entering a name and
+optional description, then click Submit.
+Seagate Share copies your photos from GoFlex Home to Flickr. (No music, movie, or
+document files in the share are copied to Flickr.)
+If you add more photos to the share on GoFlex Home, Seagate Share automatically copies
+them to Flickr. Removing photos from the share doesn’t remove them from Flickr.
+
+Sharing Your Files with RSS Feeds
+Note:
+
+This feature is available to Seagate Share Pro subscribers only.
+
+RSS stands for Really Simple Syndication, and is a method of distributing frequently updated
+Web content (like news sites and blogs) to a large number of people. You can subscribe to an
+RSS feed to stay up-to-date on your favorite sites.
+With GoFlex Home, others can subscribe to an RSS feed to stay up-to-date on the content of
+your shares, if you make them available to everyone (see Step 5 on page 51). Only photos
+and other images appear in the RSS feed; music, movie, and document files are not
+included.
+If your share is available to everyone, an RSS icon automatically appears in the share
+toolbar. If someone viewing the share clicks its RSS icon, the share opens in an RSS reader,
+which shows the name and description of the share, and shows its images sorted by name.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+53
+
+4. Getting Started with GoFlex Home
+
+Setting Up a Centralized Printer
+
+The RSS reader then automatically receives new images as you add them to the share, and
+deletes them when you remove them from the share.
+
+Figure 41:
+
+RSS Icon
+
+Setting Up a Centralized Printer
+If you connect a printer to the USB port on GoFlex Home, everyone on your GoFlex Home
+network storage system can share it and wirelessly print from a central location.
+Note:
+
+This section describes the basic steps to add a USB printer to GoFlex Home. For more
+information and complete instructions for your specific computer, refer to the documentation
+that came with your operating system. (Search for information about sharing a printer,
+connecting to a network printer, or connecting to an Internet or intranet printer.)
+
+To connect a USB printer to GoFlex Home:
+1. Use a high-quality USB cable (not included) to connect your USB printer to the USB port on
+the back of the GoFlex Home dock. See Figure 2 on page 9 for help locating the USB port.
+TIP: You can also connect a USB hub to the GoFlex Home dock, then connect your USB
+printer to the hub.
+2. Turn on the printer.
+3. Add your USB printer to the list of printers available on your computer:
+In Windows:
+a. From the Control Panel, double-click Printers and Faxes.
+b. Click Add a Printer. When the wizard opens, click Next.
+c. Click A network printer, or a printer attached to another computer, then click Next.
+d. Connect to your USB printer by searching or browsing for it, then follow the on-screen
+instructions to complete the connection.
+On a Mac:
+a. Go to System Preferences, click Print & Fax, then click the plus sign (+).
+b. Click Windows, select seagategroup, and then select goflex_home.
+c. Select Registered User, enter your user name and password, then click Connect.
+d. Choose the option Select a driver to use in the Print Using using field and then click
+Add.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+54
+
+4. Getting Started with GoFlex Home
+
+Enjoying Your Files on a Digital Media Player or Game Console
+
+4. Repeat these steps for the other computers on your GoFlex Home network storage system,
+as required.
+You can now print to and manage the USB printer from your computer, the same way you
+would if it was physically or wirelessly connected. Keep in mind that it’s a shared printer and
+that others connected to GoFlex Home will be using it, too, on a first-come, first-print basis.
+TIP: In Explorer and Finder, your printer appears as a network device.
+
+Enjoying Your Files on a Digital Media Player or Game
+Console
+You can play movies, listen to music, and view photos stored on GoFlex Home from a digital
+media device that’s connected to your home network.
+The media device can be:
+•
+
+A gaming console
+
+•
+
+A digital video player (such as FreeAgent Theater+ or FreeAgent GoFlex TV)
+
+•
+
+A TiVo® DVR (Seagate Share Pro only)
+
+•
+
+A digital photo frame
+
+•
+
+An iTunes® client
+
+•
+
+An IP television
+
+•
+
+A networked sound system (such as Sonos®)
+
+The media device must support one of these connection technologies:
+•
+
+UPnP-AV (Universal Plug-and-Play Audio and Video)
+
+•
+
+DLNA (Digital Living Network Alliance)
+
+•
+
+Windows Media Connect
+
+Supported File Types
+Only the files supported by your media device will be detected and available for viewing or
+listening. GoFlex Home currently supports the following file type extensions:
+•
+
+Audio: .mp3, .flac, .wma, .asf, .fla, .flc, .m4a, .aac, .mp4, .m4p, .wav, .ogg, .pcm, .3gp
+
+•
+
+Video: .mpg, mpeg, .avi, .divx, .asf, wmv, .mp4, .m4v, .mts, .m2ts, .m2t, .mkv, .vob, .ts,
+.flv, .xvid, .TiVo, .mov, 3gp
+
+•
+
+Images: .jpg, .jpeg
+
+•
+
+Playlists: .m3u, .pls
+
+See your media device documentation for a list of supported file types.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+55
+
+4. Getting Started with GoFlex Home
+
+Enjoying Your Files on a Digital Media Player or Game Console
+
+Sharing with Media Devices
+Before your media device can discover and play the digital media files on your GoFlex Home,
+you have to make them available. By default, the GoFlex Home Public folder is available to
+the supported media devices connected to your home network. To share your Personal or
+Backup folders, you must perform the following steps.
+To make your digital media files available to the media devices on your home network:
+1. Open Seagate Share and log in (see page 38).
+2. Click Seagate Share.
+The Seagate Share page opens.
+3. In the Content panel, move your mouse over the folder that contains the files you want, click
+the arrow that appears, then click Share with Media Devices.
+All the supported media files in the folder are now available from any media device connected
+to your home network. If the folder you’ve chosen has subfolders inside it, all the files they
+contain are shared as well.
+Note: If you have a large amount of files stored on GoFlex Home, it will take awhile for the
+files to be indexed and viewable from your media player. If you are unable to see the
+shared folders on your media device, see “Common Problems and Solutions” on
+page 84.
+To make the files in the folder unavailable to media devices, repeat Steps 3 and 4, selecting
+Unshare with Media Devices in Step 4.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+56
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Playing Music
+
+5. Enjoying and Managing Your Files
+in Seagate Share
+This chapter explains how to use Seagate Share to enjoy and manage the files you’ve stored
+on GoFlex Home.
+To learn more about the Seagate Share application, how to navigate its pages, and how to
+work with your files and folders, see “Opening Seagate Share” on page 38.
+Note:
+
+Some of the features described in this chapter are available to Seagate Share Pro subscribers
+only. See “About Seagate Share Pro” on page 10 for more information.
+
+Playing Music
+This section explains how to use Seagate Share and iTunes to enjoy the music files stored
+on GoFlex Home from a computer, media player or other compliant device.
+
+Playing Music in Seagate Share
+To play music stored in a Seagate Share folder:
+1. On The Seagate Share page, navigate to the folder that contains the music you want to hear.
+2. Double-click the song you want.
+Seagate Share plays the song, then continues playing all the other songs in the folder. (It
+won’t play songs in any subfolders that might be in the folder you’ve chosen.) The song’s
+album art and the name of the current song appear on-screen, too.
+You can control playback by using the playback toolbar at the bottom of the screen. Click the
+return icon in the toolbar to stop playback and return to the Seagate Share page.
+To play music in a share:
+1. On The Seagate Share page, navigate to the share that contains the music you want to hear.
+2. Double-click the song you want.
+Seagate Share plays the song, then continues playing all the other songs in the share.
+
+Playing Music with iTunes
+Everyone on your GoFlex Home network can use iTunes to stream music stored on GoFlex
+Home. (You can’t use iTunes to play music when accessing GoFlex Home from outside your
+home network.)
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+57
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Playing Movies and Videos
+
+To create an iTunes library that all GoFlex Home users can access:
+1. Open and log in to Seagate Share (see page 38).
+2. In the Content panel, click the GoFlex Home Public folder, then click the plus sign (+).
+The New Folder window opens.
+3. Enter a name for the folder (for instance, iTunes Library), then click Create.
+The new folder is created.
+4. Add songs to the new folder by dragging and dropping files into the folder.
+5. In the Content panel, move your mouse over the new folder, click the arrow that appears,
+then click Share with Media Devices. (If the Share with Media Devices option is not
+available, the folder is already enabled for sharing.)
+6. On your computer, open iTunes. In the Edit menu, click Preferences, then select the
+Sharing tab and ensure that Look for Shared Libraries is selected.
+All music files stored in your new folder appear in the iTunes SHARED > GoFlex Home:iTunes
+folder. You can play these songs within iTunes, but you cannot add them to a playlist. Photos,
+movies, and documents stored on GoFlex Home are not available within iTunes.
+Up to five computers or media devices on your home network can play iTunes DRM (Digital
+Rights Management) protected music, but an unlimited number of computers and media
+devices can play iTunes Plus music or songs imported from CD.
+
+Playing Movies and Videos
+To play a movie or video stored on GoFlex Home:
+1. On The Seagate Share page, navigate to the folder that contains the movie you want to
+watch.
+2. Double-click the movie file.
+Seagate Share opens and plays the movie.
+You can control playback by using the playback toolbar at the bottom of the screen. Click the
+return icon in the toolbar to stop playback and return to the Seagate Share page.
+
+Enjoying Your Photos
+This section explains how to view your pictures and photos, start a photo slideshow, and
+make one of your photos a background image for your Seagate Share Home page. It also
+explains how to access Cooliris, a Web-based application for viewing photos in a 3D display
+(available with a Seagate Share Pro subscription—see page 10).
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+58
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Enjoying Your Photos
+
+Viewing Photos
+To view photos stored on GoFlex Home:
+1. On The Seagate Share page, navigate to the folder that contains the photos you want to see.
+2. Double-click any photo to open it.
+To rotate an image:
+1. In the Content panel, click on the folder that contains the photo you want to rotate.
+2. In the Main panel, move your mouse over the photo you want, click the arrow that appears,
+then click Rotate Clockwise or Rotate Counterclockwise (as required).
+The photo is rotated. If the photo is included in a share, it’s rotated there, as well.
+
+Viewing Photos as a Slideshow
+You can view all the photos contained in a folder in an automated slideshow. (The slideshow
+won’t include photos in any subfolders that might be in the folder you’ve chosen, and it won’t
+play any music stored with your photos.)
+To view photos as a slideshow:
+1. On The Seagate Share page, navigate to the folder or share that contains the photos you
+want to see.
+2. In the Content or Shares panel, move your mouse over the folder or share you want, click the
+arrow that appears, then click Slideshow.
+A slideshow begins. Each photo displays for a few moments, along with its caption. (See
+page 63 for more information about captions.)
+You can control the slideshow by using the playback toolbar at the bottom of the screen.
+Click the return icon in the toolbar to stop the slideshow and return to the Seagate Share
+page.
+
+Making a Photo Your Home Page Background
+You can use one of your photos as a background image for the Home page of Seagate Share
+(the first page that opens after you sign in).
+To make a photo your Home page background:
+1. On The Seagate Share page, navigate to the folder or share that contains the photo you want
+to use.
+2. In the Main panel, move your mouse over the photo you want, click the arrow that appears,
+then click Use as Home Page Background.
+3. In the Go To menu, click Home.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+59
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Files and Folders
+
+Your photo appears as a background image. You can set the size of the image, or clear it
+completely, by changing your GoFlex Home user settings on the Preferences page. See
+“Customizing Your GoFlex Home User Settings” on page 70 for instructions.
+
+Viewing Your Photos in Cooliris
+Note:
+
+This feature is available to Seagate Share Pro subscribers only (see page 10).
+
+Cooliris provides an innovative user interface to display the images in your GoFlex Home
+folders and shares.
+To open and view your photos in Cooliris:
+1. On The Seagate Share page, navigate to the folder or share that contains the photo you want
+to use.
+2. Double-click the share. Your photos open is Cooliris, and the name of the share, its
+description, and the theme you choose when you created the share appear, as well.
+OR
+
+Select the folder you want, then in the Search/View toolbar, select Cooliris in the Views list.
+3. After selecting the Cooliris view, move your mouse over View This In 3D, then click Get
+Cooliris to install the Cooliris plug-in, which will allow you to enjoy all the Cooliris features.
+
+Managing Files and Folders
+This section explains how to add, delete, rename, move, and manage the files and folders
+you’ve stored on GoFlex Home.
+TIP: Remember that Seagate Share provides several ways of doing the same task. The
+steps in the following sections describes one possible way of completing a task. See
+“Completing Tasks Multiple Ways in Seagate Share” on page 41 for alternatives.
+
+Adding and Deleting Folders
+You can add and delete folders within your GoFlex Home Public and Personal folders by
+using the plus sign (+) and minus sign (-) in the Content panel. If you delete a folder, any files
+within that folder that are included in a share won’t be available from the share anymore.
+Caution: Deleting a folder deletes all the files stored inside it.
+
+To add a folder:
+1. On The Seagate Share page, click the plus sign (+) in the Content panel.
+The New Folder window opens.
+2. Enter a name for the folder, then click Create.
+The new folder is created.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+60
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Files and Folders
+
+3. Add files to the new folder by dragging and dropping them into the folder.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+61
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Files and Folders
+
+To delete a folder:
+1. On The Seagate Share page, select the folder you want to delete
+Caution: Deleting a folder deletes all the files stored inside it.
+
+2. Click the minus sign (-) in the Content panel, then click Yes to confirm the deletion.
+
+Moving a Folder
+You can move any folder within your GoFlex Home Public and Personal folders, and can
+even move a folder between the Public and Personal folders.
+To move a folder, drag and drop it to the location you want. You can also use the folder menu
+(see page 42) to Cut and Paste the folder from one location to another.
+
+Copying a Folder
+When you copy a folder, the original stays where it is and you place a second version in
+another location. Nothing is removed from the original folder or location.
+To copy a folder in Seagate Share, use the folder menu (see page 42) to Copy and Paste the
+folder to a new location.
+
+Renaming a Folder
+TIP: If you rename a folder, its files will no longer be available in any existing share that
+contains the folder.
+To rename a folder:
+1. Move your mouse over the folder you want, click the arrow that appears, then click Rename.
+The Rename Folder window opens.
+2. Enter a new name, then click Rename.
+The folder is renamed.
+
+Adding Files to a Folder
+You can add files to a folder one of two ways:
+•
+
+On the Seagate Share page, drag and drop files from one folder to another on GoFlex
+Home.
+
+•
+
+Copy new files from your computer to the GoFlex Home folder you want. See “Copying
+Files to GoFlex Home Using Seagate Share” on page 45 for instructions.
+
+Moving a File to Another Folder
+You can move files from one folder to another by dragging and dropping them where you
+want them to be. You can also use the file menu (see page 42) to Cut and Paste the folder
+from one location to another.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+62
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Files and Folders
+
+TIP: If you move a file to another folder, it will no longer be available in any existing share.
+
+Copying a File
+When you copy a file, the original stays where it is and you place a second version in another
+location. Copying a file duplicates the original full-resolution version stored in the folder, not
+the compressed version that appears in Seagate Share. Nothing is removed from the original
+location. Remember that each copy of a file takes up the same amount of storage space on
+your GoFlex Home.
+To copy a file, use the file menu (see page 42) to Copy and Paste it to a new location.
+
+Renaming a File
+You can rename any file that’s within a folder, if necessary.
+TIP: If you rename a file, it will no longer be available in any existing share.
+To rename a folder:
+1. Move your mouse over the file you want, click the arrow that appears, then click Rename.
+The Rename File window opens.
+2. Enter a new name, then click Rename.
+The file is renamed.
+
+Adding Captions and Tags to Your Files
+A file’s caption is a description of the file, and it appears whenever you view a file within a
+folder or a share. (Seagate Share Pro subscribers—Photo captions also appear when you
+share your photos through Facebook, Flickr, or RSS feeds.) You can use caption text to
+search for a file.
+A file’s tags store additional information about a file. Tags appear in the Details panel of the
+Seagate Share page when you view a file within a folder. Tags don’t appear in shares, or when
+you post your photos on Facebook, Flickr, or by RSS feed. You can use tags to search for a file.
+If you tag files consistently, you will be able to find the files you’re looking for more easily,
+especially as their numbers grow over time.
+To add a caption and/or tags to a file:
+1. On The Seagate Share page, navigate to the folder that contains the file you want.
+2. Move your mouse over the file you want, click the arrow that appears, then click View
+Details.
+A Details panel opens on the Seagate Share page.
+3. Enter a caption in the Caption box.
+For example: Our New Kittens
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+63
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Your Shares
+
+4. Enter the tags in the Tags box.
+For example: cats, kittens, pets, Zeppo and Zoey
+5. Repeat the steps in this section until all the files you want to describe and tag are done.
+
+Downloading a File
+You can download any file in your GoFlex Home Personal or Public folders to your computer.
+When you download a file, you download the original full-resolution version of the file.
+To download a file:
+1. On The Seagate Share page, navigate to the folder that contains the file you want.
+2. Move your mouse over the file, click the arrow that appears, then click Download.
+A window opens, listing the files within that folder.
+3. Click the Download button beside the file you want.
+4. Follow the on-screen instructions to open or save the file.
+
+Deleting a File from a Folder
+You can delete files from your GoFlex Home Personal and Public folders. You can delete
+single files or multiple files simultaneously.
+TIP: If you delete a file, it will no longer be available in any share.
+To delete a folder:
+1. On The Seagate Share page, move your mouse over the file you want to delete.
+OR
+
+Select multiple files to delete from the same folder, then move your mouse over the selected
+files.
+2. Click the arrow button that appears, then click Delete.
+3. Click Yes to confirm the deletion.
+
+Managing Your Shares
+Once you have created a share (see page 50), you can use Seagate Share to add files to it,
+remove files from it, rename it, and manage the access settings to limit or expand who can
+view it. You can also delete an entire share.
+TIP: Keep in mind that files appear in shares by reference only—your original files remain
+in their original locations inside your GoFlex Home folders. If you move, delete, or
+rename a file or its folder, any share that references that file won’t be able to access it
+anymore. However, deleting a share does not delete the files it contains.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+64
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Your Shares
+
+Accessing Your Shares
+Your can find your shares listed in two places in Seagate Share:
+•
+
+The Shares panel of the Seagate Share page
+
+•
+
+On the Shares page
+To open the Shares page, log on to Seagate Share (see page 38), click Go To in the
+Navigation toolbar, then click Shares.
+
+Viewing a Share
+To view a share:
+1. In the Shares panel, double-click the share you want.
+The share opens, showing the background you chose and the description you added during
+setup. Within the share window, you have options to change the view of the contents, start a
+slide show, play music included in the share, and download the files in the share to your
+computer.
+2. Click the arrow in the share toolbar to return to the main Seagate Share page.
+
+Adding Files to a Share
+To add a file or the contents of a folder to any existing share:
+1. On The Seagate Share page, navigate to the file or folder you want.
+2. Move your mouse over the file or folder, click the arrow that appears, click Add to Share,
+then click the name of the share.
+The file or folder is added to the share.
+
+Removing a File from a Share
+Removing a file from a share means that the file isn’t available in the share anymore; it
+doesn’t delete the file from its original location in your GoFlex Home folders. You can remove
+multiple files from a share simultaneously.
+To remove a file from a share:
+1. On The Seagate Share page, navigate to the share you want.
+2. Move your mouse over the file you want to remove.
+OR
+
+Select multiple files to remove, then move your mouse over the selected files.
+3. Click the arrow that appears, then click Remove.
+The files are removed from the share, but not deleted from their original locations on GoFlex
+Home.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+65
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Your Shares
+
+Creating a Share that Only You Can Access
+To create a share that only you can access:
+1. On The Seagate Share page, navigate to the folder you want.
+2. Move your mouse over the folder, click the arrow that appears, click Add to Share, then click
+New.
+By default, the share has the same name as the selected folder.
+3. (Optional) Enter a name and description for the share, enter a Description, and select a
+theme, which adds a background image to the share.
+4. Click Submit.
+The share is created. You can invite others to view your share at any time by changing its
+Sharing settings:
+a. Move your mouse over the share, click the arrow that appears, then click View Details.
+b. In the Details panel, click Sharing.
+c. Select the people or groups you want to share with. See “Creating a Share” on page 50
+for more information.
+
+Disabling Sharing on a Selected Share
+Disabling sharing prevents others from viewing your share.
+To disable sharing:
+1. On The Seagate Share page, navigate to the share you want.
+2. Move your mouse over the share, click the arrow that appears, then click View Details.
+3. In the Details panel, clear the Sharing option.
+Seagate Share Pro users—Clear the Social Networking Sites options, as well.
+Sharing is disabled for the selected share.
+
+Renaming a Share
+You can rename any share, if necessary.
+TIP: If you rename a share that others have been invited to view, the original link to the
+share will no longer work. Resend invitations with the new link, if necessary.
+To rename a share:
+1. Move your mouse over the share you want, click the arrow that appears, then click Rename.
+The Rename Share window opens.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+66
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Your Shares
+
+2. Enter a new name, then click Rename.
+The share is renamed.
+
+Creating Cover Art for a Share
+You can use a photo, a document, or an image from a music or movie file as the cover art for
+a share. The cover art appears as the share icon on the Shares page of Seagate Share. (If
+you set a document as the cover, a generic document icon is used.)
+To use a file as the cover art of a share:
+1. On The Seagate Share page, navigate to the share you want.
+2. In the Main panel, move your mouse over the file you want, click the arrow that appears, then
+click Use as Share Cover.
+The file becomes the share’s cover art.
+
+Downloading a File from a Share
+When you create a share and you or others view it, the share streams compressed images to
+conserve bandwidth and improve performance. You can configure a share to allow those
+viewing it to download original full-resolution versions of the files.
+Allowing downloads is especially important if the share contains documents, because the
+share references these files but cannot open them. (To allow downloads from a share, see
+Step 6 of “Creating a Share” on page 50.)
+If a share allows downloads, you can download all the files in a share from the Shares page,
+or selected files from a share that you’re currently viewing.
+To download all the files using the Shares page:
+1. On The Seagate Share page, click Go To in the Navigation toolbar, then click Shares.
+2. Select the share you want, then click Download in the toolbar.
+A window opens, listing all the files in the share.
+3. Click the Download button beside the files you want.
+4. Follow the on-screen instructions to open or save the files.
+To download individual files from a share that you’re currently viewing:
+1. Select one or more files, then click the Download icon in the toolbar.
+2. Click the Download button beside the files you want.
+3. Follow the on-screen instructions to open or save the files.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+67
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Managing Your Shares
+
+Deleting a Share
+Deleting a share means that others can no longer access the files it contained; however, the
+files themselves remain in their original GoFlex Home folders.
+Seagate Share Pro users—If you copied photos from a share to your account on Facebook
+or Flickr, your photos will remain on those sites. However, if you invited others to view your
+share using RSS, your photos will no longer be available to the RSS readers.
+To delete a share:
+1. On The Seagate Share page, select the share you want to delete, then click the minus sign () in the Share panel.
+2. Click Yes to confirm the deletion.
+
+Setting Up and Managing an E-mail Address Book for Shares
+When you create a share, you can choose to invite specific friends and family to view it.
+Seagate Share e-mails them an invitation that contains a link to the share.
+To make sending invitations easy, you can set up an e-mail address book in Seagate Share,
+then add to or edit it as required. When you want to invite others to view a share, you can
+choose which contacts to include from the list.
+To set up your address book in Seagate Share:
+1. On The Seagate Share page, select an existing share. (To create your first share, see
+page 50.)
+2. Move your mouse over the share, click the arrow that appears, then click View Details.
+The Details panel appears.
+3. Click Sharing, then select Share with Friends (if it isn’t selected already).
+4. In the Share with Friends box, click the icon with the plus sign (+) on it.
+The Share with your Contacts window opens.
+5. Click the Create New Contact icon under the address book, enter the first name and e-mail
+address, then click Add.
+Your first contact is added to your address book.
+6. Continue adding contacts, following the steps in this section.
+Your contact list is now available in any existing or new share.
+To edit information in your address book, select the name in the Address Book list, click the
+Edit Contact icon, then change the name and/or e-mail address.
+To remove someone from your address book, select them in the Address Book list, then click
+the Delete Contact icon.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+68
+
+5. Enjoying and Managing Your Files in Seagate Share
+
+Accessing Your GoFlex Home Files Using FTP
+
+Accessing Your GoFlex Home Files Using FTP
+You can access your GoFlex Home using FTP (File Transfer Protocol). FTP is one way of
+copying files from one computer or storage device to another. You can upload files to and
+download files from any of your GoFlex Home folders using FTP.
+Note:
+
+You should be familiar with FTP before using this feature. For security reasons, don’t enable
+FTP access unless or until you need it. Seagate Share Pro subscribers can access GoFlex
+Home using the more secure FTPS.
+
+FTP access must be enabled in Seagate Share before you can use FTP to access your
+GoFlex Home. To enable FTP in Seagate Share:
+1. Open and log in to Seagate Share (see page 38).
+2. Click Go To, then click Preferences.
+3. Under Server Preferences, click Network Services.
+4. Set Enable FTP access to your local LAN and Enable FTP access to the Internet to Yes.
+5. Click Submit.
+FTP access is enabled.
+6. Ensure that your router is set to forward port 21 to your GoFlex Home. This is set up
+automatically if your router has UPnP enabled.
+7. To connect to GoFlex Home using FTP locally, open a browser and browse to:
+ftp://yourGoFlexHomeIPaddress
+You can find the IP address of your GoFlex Home by (Mac) right-clicking the GoFlex Home
+Agent icon, selecting Preferences, and then selecting the GoFlex Home Found tab, or
+(Windows) by finding GoFlex Home in the list of Network devices and looking at its properties.
+To connect to GoFlex Home using FTP remotely, open a browser and browse to:
+ftp://GoFlexHomeName.seagateshare.com
+When you log in to GoFlex Home, remember that your user name and password are casesensitive.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+69
+
+6. Managing GoFlex Home
+
+Changing Your Own GoFlex Home Password
+
+6. Managing GoFlex Home
+Once your GoFlex Home network storage system has been set up, you can change your
+personal GoFlex Home settings, add new applications to your computer, manage user
+accounts, and manage your GoFlex Home and any devices connected to it.
+Note:
+
+Some of the tasks described in this chapter can be only be done by someone with a user
+account that includes permission to change GoFlex Home settings. If you can’t complete a
+task included in this chapter, ask your home network manager to update your account
+permissions or do the task for you.
+
+Changing Your Own GoFlex Home Password
+You use your GoFlex Home password to log into the Seagate Dashboard (Windows users
+only) and to log in to GoFlex Home from the Seagate Share application or FTP connection.
+You can change your password at any time.
+To change your password:
+1. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+2. On the Preferences page, click Change Password.
+3. Enter and confirm your new password. Passwords must be at least six characters long and
+must include one number. Passwords are case-sensitive.
+4. Click Submit.
+Your password is changed.
+
+Customizing Your GoFlex Home User Settings
+You can customize your GoFlex Home account by personalizing the default settings for
+sharing new files, adding your own e-mail address for sending share invitations, and
+choosing your preferred language.
+To customize your GoFlex Home user settings:
+1. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+70
+
+6. Managing GoFlex Home
+
+Adding New GoFlex Applications to Your Computer
+
+2. On the Preferences page, click User.
+3. Change your preferences as required:
+•
+
+Language: Sets the language of the Seagate Share application.
+
+•
+
+Sharing Emails Sender: Sets the return e-mail address for the invitations to view your
+shares that Seagate Share sends out (see “Creating a Share” on page 50).
+
+•
+
+Home Background Position: Sets the size of the image (if any) used on the Seagate
+Share Home page. Click Clear Home Background to not use an image on the Home
+page. (See “Making a Photo Your Home Page Background” on page 59 for more
+information.)
+
+•
+
+What to do when a file already exists: Determines what happens when you copy or
+move a file to a folder that already contains a file with the same name.
+
+•
+
+Share new content with other family accounts...: Sets the access default for allowing
+others on your GoFlex Home network storage system to access new shares; you can
+override this default setting when you create a new share.
+
+•
+
+Share new content with media devices...: Sets the access default for allowing media
+devices to access new shares; you can override this default setting when you create a
+new share.
+
+•
+
+Resume Audio Playback: Determines whether or not playback automatically starts with
+the first song or movie in a folder or share. If you select No, songs and movies start at the
+beginning when you play them; if you select Yes, Seagate Share automatically offers to
+resume a song or movie where you stopped it on a previous occasion.
+
+•
+
+Hide Help Tips: Enables or disables the tip box that appears whenever you open
+Seagate Share.
+
+•
+
+Reset all ‘Do not show again’ prompts: Re-enables the help windows you disabled
+previously.
+
+4. Click Submit.
+Your settings are updated.
+
+Adding New GoFlex Applications to Your Computer
+The bottom panel of the Seagate Dashboard is the Application Store, a service from Seagate
+that offers applications you can install on your computer for use with your storage devices.
+In the Application Store, you can browse the list of applications, try out the ones you’re
+interested in, and purchase the ones you like. The list of applications is updated regularly, so
+check back often to see what’s new.
+In addition to the applications available from the Application Store, you can install the GoFlex
+Access app on your smartphone or tablet for remote access to your GoFlex Home folders.
+See “Using GoFlex Access” on page 81 for instructions.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+71
+
+6. Managing GoFlex Home
+
+Adding and Managing User Accounts
+
+TIP: Mac users—Some applications available in the Seagate Dashboard, such as Memeo
+Premium Backup, are available for Mac computers.
+You can install and try out many applications for free for a limited amount of time. When the
+free trial period is over, you’re given the option to purchase and install the full version.
+To learn about or install a free trial version of an application:
+1. Open the Seagate Dashboard (see page 35).
+2. Find the application you want in the Application Store.
+TIP: Click See All to view all available applications.
+3. Under the application, click Learn More.
+Or,
+Click Install to install a free-trial version of the application.
+When the free trial period is over, you can choose whether or not to purchase and install the
+full version of the application.
+
+Adding and Managing User Accounts
+This section explains how to add a new user to your GoFlex Home network storage system,
+edit the details of existing user accounts, or remove a user account from GoFlex Home.
+Note:
+
+To complete the tasks in this section, you must have a user account that includes permission
+to change GoFlex Home account settings.
+
+Adding a New User Account to GoFlex Home
+You can add new users to GoFlex Home at any time.
+TIP: Remember that GoFlex Home includes accounts for up to five people/computers. To
+create user accounts for more than five people, you must upgrade to Seagate Share
+Pro. See page 10 for more information.
+
+Adding a User from the Seagate Dashboard
+Note:
+
+Mac users—You must use Seagate Share to add a new user account to GoFlex Home. See
+page 73.
+
+To add a new user to GoFlex Home:
+1. Open the Seagate Dashboard (see page 35).
+2. In the How to... panel, click Add Users.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+72
+
+6. Managing GoFlex Home
+
+Adding and Managing User Accounts
+
+3. Follow the on-screen instructions. See “Step 5: Adding a User to GoFlex Home” on page 19
+for more information.
+
+Adding a User from Seagate Share
+To add a new user to GoFlex Home:
+1. Open and log into Seagate Share (see page 38).
+2. On the Home page, click Preferences.
+3. Click Add New User.
+4. Enter the user name in the Account User Name field.
+User names must start with a letter and must be at least three characters in length. User
+names are not case-sensitive. You can’t use the same user name twice on GoFlex Home.
+5. Enter a display name for the user. This name can be different from the Account User Name, if
+you want.
+6. Enter and confirm a password.
+Passwords must be at least six characters long and must include one number. Passwords are
+case-sensitive.
+7. Select Create as Administrator if you want this person to be able to do the same home
+network manager tasks as you.
+8. Click Submit.
+The user account is created, and the person can begin using GoFlex Home as soon as their
+computer is added to your GoFlex Home network storage system (see page 21 for Windows
+or page 33 for Mac).
+
+Editing or Removing an Existing User Account
+You can change the details of an existing GoFlex Home user account at any time. You can:
+•
+
+Change the password.
+
+•
+
+Give or remove manager permissions, which allow the user to change GoFlex Home
+account settings.
+
+•
+
+Give or remove access to the GoFlex Home Public folder.
+
+If necessary, you can also remove a user account from GoFlex Home. You might want to do
+this to make one of your five included user accounts available to someone else in the
+household, or to shut down the account of someone who no longer requires access to your
+GoFlex Home network storage system.
+To edit or remove an existing user account:
+1. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+73
+
+6. Managing GoFlex Home
+
+Adding and Managing User Accounts
+
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+2. Click Edit User.
+The Edit User screen opens.
+3. Select the user name, make the required changes, then click Submit.
+Or,
+Select the user name, click Delete, then click OK to confirm.
+The user account is updated or deleted. If you changed someone’s password, make sure to
+share the new one with him or her.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+74
+
+6. Managing GoFlex Home
+
+Managing GoFlex Home and Connected Devices
+
+Managing GoFlex Home and Connected Devices
+This section explains how to properly maintain your GoFlex Home device and how to add and
+remove GoFlex and USB drives.
+
+Updating the GoFlex Home Software
+To get the most out of your GoFlex Home, update its software whenever a new version is
+released.
+To update the software on your GoFlex Home device:
+1. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+2. Click Software Updates.
+3. Click Check Now.
+If updated software is available, follow the on-screen instructions to update the software.
+
+Adding More Storage Capacity to GoFlex Home
+If you need additional storage capacity on GoFlex Home in the future, you can connect a
+USB drive directly to GoFlex Home or upgrade to a new or larger-capacity GoFlex Home or
+GoFlex Desk drive (see page 76 for instructions on removing and replacing the drive in your
+GoFlex Home).
+If you replace the current drive, you can store it as an archive of all your household backup
+files, in case a problem occurs on someone’s computer or an important older file is
+overwritten or deleted by mistake.
+For more information about additional GoFlex drives for your GoFlex Home, visit the Seagate
+Web site at www.seagate.com
+
+Adding a USB Drive to GoFlex Home
+GoFlex Home provides a USB port that you can use to connect additional storage devices,
+such as a USB flash drive (also known as a thumb drive) or external USB hard drive. When
+connected to GoFlex Home, a USB drive appears as an External Storage folder on GoFlex
+Home, next to the Public, Personal, and Backup folders.
+To add a USB drive to GoFlex Home, connect it directly to the USB port on the back of the
+GoFlex Home dock, or use a high-quality USB cable (not included). See Figure 2 on page 9
+for help locating the USB port. (You can also connect a USB hub to GoFlex Home, then
+connect additional devices to it.)
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+75
+
+6. Managing GoFlex Home
+
+Adding More Storage Capacity to GoFlex Home
+
+Removing a USB Drive from GoFlex Home
+To avoid losing data or damaging your files, always follow these instructions to safely and
+properly shut down and remove a USB storage device from the GoFlex Home dock:
+1. Make sure that no files on the USB device are open or in the process of being saved, and that
+no one connected to your GoFlex Home is copying files to or from it.
+2. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+3. Click Storage Devices.
+The Storage Devices screen opens.
+4. Select the device you want to shut down, click Eject, then click OK to confirm.
+When the USB drive is shut down, you can safely remove it from the GoFlex Home dock.
+
+Safely Removing the GoFlex Drive from the GoFlex Home Dock
+To avoid losing data or damaging your files, always follow these instructions if you need to
+remove the GoFlex drive from the GoFlex Home dock:
+1. Make sure that no one is accessing GoFlex Home. No one should be viewing photos,
+watching a movie, listening to music, or working with any other file stored on GoFlex Home,
+or copying files to or from their GoFlex Home folders.
+2. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+3. Click Shut Down.
+The Shut Down screen opens
+4. Click Shut Down.
+The white drive light on the front of GoFlex Home blinks to show that GoFlex Home is shutting
+down. When shutdown is complete, both lights turn off.
+5. Remove the GoFlex drive by carefully lifting it from the connectors on the dock.
+To reinstall the drive and restart GoFlex Home, follow the instructions in “Step 2: Connecting
+GoFlex Home” on page 13.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+76
+
+6. Managing GoFlex Home
+
+Adding More Storage Capacity to GoFlex Home
+
+Shutting Down and Restarting GoFlex Home
+If you experience minor problems with GoFlex Home, follow the instructions in this section to
+restart it.
+Note:
+
+Restarting GoFlex Home does not remove any user settings or delete content from the drive.
+
+To shut down and restart GoFlex Home:
+1. Make sure that no one is accessing GoFlex Home. No one should be viewing photos,
+watching a movie, listening to music, or working with any other file stored on GoFlex Home,
+or copying files to or from their GoFlex Home folders.
+2. Open the Seagate Dashboard (see page 35), then click Preferences.
+OR,
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+3. Click Shut Down.
+The Shut Down screen opens.
+4. Click Restart.
+GoFlex Home safely shuts down and restarts. When it is fully powered on and connected to
+your network, it appears in the list of drives at the top of the Seagate Dashboard, and your
+GoFlex Home folders appear in Explorer and Finder.
+
+Resetting GoFlex Home to Its Original Settings
+Resetting GoFlex Home returns the device to its original factory settings. All the files stored
+on GoFlex Home are retained—no files or folders are deleted—but all other settings, such as
+user accounts and passwords, are removed.
+Note:
+
+Reset GoFlex Home only if absolutely necessary, to avoid the lengthy task of re-creating user
+accounts, re-adding computers to GoFlex Home, reconnecting users to their GoFlex Home
+folders, and redoing any custom settings.
+
+To reset GoFlex Home:
+1. Make sure that no one is accessing GoFlex Home. No one should be viewing photos,
+watching a movie, listening to music, or working with any other file stored on GoFlex Home,
+or copying files to or from their GoFlex Home folders.
+2. Using a paperclip, press and hold the Reset button for ten (10) seconds. The Reset button is
+located on the side of GoFlex Home, as shown in Figure 2 on page 9.
+The white drive light blinks to show that GoFlex Home is shutting down. When shutdown is
+complete, both lights turn off.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+77
+
+6. Managing GoFlex Home
+
+Managing GoFlex Home Settings and Preferences
+
+3. Press the Power button to restart GoFlex Home, then follow the instructions in “Step 4:
+Setting Up GoFlex Home” on page 15 to re-activate GoFlex Home, re-add user accounts,
+and re-add the computers on your home network.
+Be sure to re-create user names exactly, so that everyone can reconnect to their existing
+GoFlex Home folders.
+TIP: You can also access all the folders and files on GoFlex Home by connecting GoFlex
+Home directly to your computer using a GoFlex Cable (sold separately). Go to
+www.seagate.com for more information.
+
+Managing GoFlex Home Settings and Preferences
+The GoFlex Home Preferences page helps you manage personal and network settings for
+your GoFlex Home device.
+On the Preferences page, you can change your personal information, manage user accounts
+on your GoFlex Home (if you have permission to do so), change network-related settings,
+and manage your GoFlex Home device by updating its software or shutting it down properly.
+You can open the GoFlex Home Preferences page two ways:
+•
+
+Open the Seagate Dashboard (see page 35), then click Preferences.
+Or,
+
+•
+
+Open and log in to Seagate Share (see page 38), click Go To, then click Preferences.
+
+The Preferences page opens, showing a range of settings. This section describes those
+settings not already discussed in this chapter.
+
+Server Preferences Settings
+This section describes the settings available in the Server Preferences area of the Seagate
+Share Preferences page.
+•
+
+Network Sharing: Controls whether members of your household can access their
+GoFlex Home Personal and Backup folders using either Explorer or Finder, as well as
+access a USB printer connected to GoFlex Home (see “Setting Up a Centralized Printer”
+on page 54).
+
+•
+
+UPnP Router Configuration: Controls whether or not Seagate Share configures your
+router, and whether or not Seagate Share can override your router’s current
+configuration.
+Note:
+
+Enable this setting only if you experienced a problem while setting up GoFlex Home.
+GoFlex Home works with most consumer home network equipment with no special
+settings required.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+78
+
+6. Managing GoFlex Home
+
+Managing GoFlex Home Settings and Preferences
+
+•
+
+Notifications: Sets the e-mail address(es) to be used for occasional system messages.
+The e-mail addresses entered in this field receive a system message only if there is a
+problem with the drive, if the drive is full, or if your Seagate Share Pro subscription is
+expiring soon.
+
+•
+
+Network Services: Controls whether or not your GoFlex Home can be accessed from an
+FTP site. For improved security, disable FTP access unless or until you specifically
+require it. Enabling FTP means that members of your household can use it to upload and
+download files to their GoFlex Home folders with FTP.
+You can limit FTP access to computers on your home network (LAN) only, or enable FTP
+access from anywhere on the Internet.
+
+•
+
+LAN Connection: Controls whether or not GoFlex Home connects to your home network
+using settings it obtains automatically. (Unless you have networking experience, have
+business-grade network equipment at home, or are experiencing problems when
+accessing GoFlex Home while you’re travelling, you should set Obtain IP Address
+Automatically to Yes. No other input is required.)
+If you need to manually set up a LAN connection for GoFlex Home, set Obtain IP Address
+Automatically to No, then enter all the required information in the fields that appear:
+•
+
+Server IP Address: Sets the static IP address for GoFlex Home. Obtain the static IP
+address from your ISP (Internet service provider), and use it to replace the dynamic IP
+address that appears in the box by default.
+
+•
+
+Server Netmask: Sets the subnet mask, which determines the address range of the
+subnet, a separate part of your network. Data sent to addresses within the subnet (for
+example, between your computer and GoFlex Home) are routed within the network.
+Data sent to addresses outside the subnet (for example, between a remote user and
+GoFlex Home) are routed to the Internet. Most home networks with less than 255
+nodes use netmask.24.
+
+•
+
+Gateway: Sets the IP address of the device (most likely your router) that routes data
+from GoFlex Home to the Internet.
+
+•
+
+Date and Time: Controls the date and time used by GoFlex Home. You can set GoFlex
+Home to obtain its settings from the Internet using an Internet time server, or you can set
+GoFlex Home’s date and time yourself. If you set Set date and time from the Internet to
+Yes, select a default NTP (Network Time Protocol) server for best results.
+
+•
+
+Remote Access: When enabled, allows GoFlex Home to be accessed from anywhere
+over the Internet. You can use this setting to disable remote access, which is enabled
+automatically when you set up GoFlex Home.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+79
+
+6. Managing GoFlex Home
+
+Managing GoFlex Home Settings and Preferences
+
+Administration Settings
+This section describes the settings available in the Administration area of the Seagate Share
+Preferences page.
+•
+
+Add New User: See page 72.
+
+•
+
+Edit User: See page 73.
+
+•
+
+Shut Down: See page 77.
+
+•
+
+Software Updates: See page 75.
+
+•
+
+GoFlex Home Premium Subscription: Upgrades Seagate Share to Seagate Share Pro,
+which provides premium service options that are available by yearly subscription. See
+page 10 for more information.
+
+•
+
+ComputersBackup: Enables ComputersBackup (which you may have installed on your
+Mac during setup) to use Time Machine to back up files on your computer to GoFlex
+Home. Before configuring the backup utility on your computer, you must enable
+ComputersBackup and create a password. The password will be required when you
+configure the backup facility on your computer.
+You can also delete all backed up data from GoFlex Home by clicking Wipe.
+Caution: Wiping backups deletes ALL backed up data for ALL GoFlex Home users (not just
+your own backup files).
+
+•
+
+Storage Devices: Lets you safely remove a USB drive from GoFlex Home (see page 76).
+Also lets you format a USB drive to change it to a NTFS (New Technology File System)
+format for Windows.
+Caution: Formatting a USB drive deletes all existing files from the drive.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+80
+
+7. Using GoFlex Access
+
+About GoFlex Access
+
+7. Using GoFlex Access
+The GoFlex Access™ app allows you to stream content from your GoFlex Home to a
+smartphone or tablet running the iOS or Android operating system.
+
+About GoFlex Access
+The GoFlex Access app lets you remotely access all the photos, movies, music and
+documents stored on your GoFlex Home network storage system. Simply launch the app and
+log in to access your files and shares from anywhere when connected to Wi-Fi or 3G/4G.
+Using GoFlex Access, you can:
+•
+
+Access your files stored at home from anywhere you have a Wi-Fi or 3G/4G connection
+
+•
+
+View your stored photos from your smartphone or tablet
+
+•
+
+Create photo slideshows with background music
+
+•
+
+Share your documents
+
+•
+
+Stream videos and music (including cover art)
+
+Note:
+
+GoFlex Access is a streaming app only; it does not support uploading or downloading of
+content between the GoFlex Home and your mobile device.
+
+Installing GoFlex Access on Your Device
+To use the GoFlex Access app for smartphones and tablets, the devices require:
+•
+
+Apple® iOS 4.3 or higher
+
+•
+
+Android™ 2.2 or higher
+
+On Android devices, the Adobe® AIR® app must be installed.
+1. Open the app store or marketplace for your device and then search for “seagate”.
+2. Install the remote access app on your device.
+Note:
+
+If the GoFlex Access app is not found in the app store for your device, it’s not yet available for
+your model of device.
+
+Connecting to GoFlex Home from Your Device
+1. Once the GoFlex Access app is installed, open the app on your device.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+81
+
+7. Using GoFlex Access
+
+Playing Video
+
+2. Enter the name you gave your GoFlex Home during setup.
+3. Enter the user name and password you use to log in to your GoFlex Home.
+
+Playing Video
+The GoFlex Access app can stream video in the following formats:
+•
+
+H.264 video, up to 1.5 Mbps, 640 by 480 pixels, 30 frames per second; low-complexity
+version of the H.264 baseline profile; AAC-LC audio up to 160 Kbps, 48kHz, stereo audio;
+.m4v, .mp4, and .mov file formats.
+
+•
+
+H.264 video, up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second; baseline profile up
+to level 3.0; AAC-LC audio up to 160 Kbps, 48kHz, stereo audio; .m4v, .mp4, and .mov
+file formats.
+
+•
+
+MPEG-4 video, up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second; simple profile;
+AAC-LC audio up to 160 Kbps, 48kHz, stereo audio; m4v, .mp4, and .mov file formats.
+
+Note:
+
+The GoFlex Access app is unable to stream video that is not in one of the formats listed
+above. If you have video in .mkv, .avi, .wmv, .3gp, .vob, .m2ts, or other non-supported video
+format, and would like to stream it using the GoFlex Access app, you can manually transcode
+it into one of the supported formats. There are many video transcoding software options
+available, some of which are free, that you can use to change your video files into one of the
+supported formats.
+
+If the video appears to be stuttering upon playback, try rebooting your smartphone or tablet.
+This can free up memory and system resources. Also check the upload speed of the GoFlex
+Home, or the download speed of your smartphone or tablet, since high network traffic or low
+download speed can be the cause of stuttering video. If you are using a 3G connection, try
+switching the connection to Wi-Fi if possible.
+
+Playing Music
+The GoFlex Access app can stream music files in .mp3 format. Using the Android version of
+the app, you can start streaming music and keep playing it in the background while you run
+other apps or play a picture slideshow.
+
+Viewing Pictures
+GoFlex Access lets you view pictures stored on your GoFlex Home from your smartphone or
+tablet. You can scroll through your pictures one at a time, or view them in a picture slideshow.
+To start a picture slideshow, open a picture, and press the Play button in the top right corner.
+GoFlex Access cycles through your stored pictures, displaying a new picture every five
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+82
+
+7. Using GoFlex Access
+
+Playing Protected Content from iTunes
+
+seconds. To play music during a picture slideshow, start playing the music first, then browse
+to your pictures and start a slideshow.
+
+Playing Protected Content from iTunes
+Video purchased from the iTunes store contains Digital Rights Managment (DRM) protection
+and can only be played on iOS devices authorized to play it. To play this kind of video, your
+iOS device must be authorized to the account that purchased the video, and must have been
+synched to iTunes since the purchase was made.
+Most music purchased from the iTunes store does not contain DRM protection, and can be
+played without restrictions. For DRM-protected music files purchased from the iTunes store,
+you can use GoFlex Access to play them on your iOS device after the files have been
+synched to the iOS device.
+DRM-protected files purchased from the iTunes store cannot be played with the Android
+version of the GoFlex Access app.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+83
+
+8. Solving Problems
+
+Common Problems and Solutions
+
+8. Solving Problems
+GoFlex Home is a plug and play device. However, in certain situations, the setup process
+may require extra attention. Below is a list of troubleshooting tips to assist you should you
+have any problems during setup.
+•
+
+Ensure that the supplied power adapter is securely connected to GoFlex Home and to a
+power source. If you are using a power strip, make sure it is turned on.
+
+•
+
+Check that one end of your network cable is securely connected to the Ethernet port on
+GoFlex Home and the other end is connected to a functioning port on your network
+router.
+If the network cable is securely connected and the light is amber, the network cable or the
+Ethernet port may not be functioning properly. To test this, connect the network cable to a
+different port on your router. If there is still no connection, try a different Ethernet cable.
+Make sure your router is turned on.
+
+•
+
+Ensure that your router gives out IP addresses to computers on your network (DHCP)
+and that DHCP is enabled on your router. DHCP is usually enabled on home networks. If
+it is not, you will have trouble connecting to GoFlex Home. If you need assistance
+enabling DHCP on your router, see your router documentation.
+
+•
+
+Ensure that your home network isn’t down or disabled, and that your Internet service isn’t
+disrupted.
+
+Common Problems and Solutions
+This section provides suggestions for solving common problems.
+
+Why can’t I create a new user account?
+You may have exceeded the number of user accounts allowed. GoFlex Home includes five
+user accounts, including the home network manager who set up GoFlex Home initially. To
+create a new user account, you must either delete an existing account (if someone has left
+the household, for instance) or upgrade to unlimited user accounts by subscribing to Seagate
+Share Pro. See page 10 for more information.
+
+Why won’t my computer connect to GoFlex Home?
+If you have installed the GoFlex Home software on your computer but it won’t connect to
+GoFlex Home, check that your home network is working properly and that the GoFlex Home
+device is properly connected and powered on. Make sure that the supplied Ethernet cable is
+connected from GoFlex Home to your router.
+If other computers are successfully connected to GoFlex Home, you may have exceeded the
+number of computers allowed. GoFlex Home includes licenses for five computers. To add
+another computer, you must either delete an existing user account (which disconnects their
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+84
+
+8. Solving Problems
+
+Common Problems and Solutions
+
+computer) or upgrade to unlimited user accounts by subscribing to Seagate Share Pro. See
+page 10 for more information.
+Some virus protection and firewall software block network traffic for security purposes. If you
+have such software running on your network, check to see if either may be blocking
+communication. Create firewall exceptions for the GoFlex Home services if necessary. If you
+need to add firewall exceptions, the GoFlex Home services are: memeo.exe, hipserv.exe,
+and dashboard.exe.
+
+Why can’t I use the name I want for GoFlex Home/my user account?
+The GoFlex Home device itself must have a name that’s completely unique—unused by any
+other device in the world. You may have to slightly adjust the name you want to make it
+unique, in the same way you often have to try a few times to find an online user name or email address that’s not already in use. Use the Check Availability button for help.
+Additionally, your GoFlex Home name must start with a letter and must be at least three
+characters in length. You can use letters, numbers, dashes, dots, and underscores. Spaces
+are not allowed.
+Within your GoFlex Home network storage system, no two user accounts can have the same
+name, even if they have different computers and different passwords.
+
+Why won’t Memeo Instant Backup let me back up more than three computers
+to GoFlex Home?
+GoFlex Home includes access to Memeo Instant Backup for up to three computers. To add
+more computers, upgrade to Memeo Premium Backup. For more information, click Learn
+More under Premium Backup in the Seagate Dashboard Application Store.
+
+I’m the home network manager and I can’t remember my GoFlex Home
+password. How do I reset it?
+If you are the home network manager (the person who set up GoFlex Home originally) and
+you can no longer remember your GoFlex Home password, follow these instructions to reset
+your password:
+1. Make sure that no one is accessing GoFlex Home. No one should be viewing photos,
+watching a movie, listening to music, or working with any other file stored on GoFlex Home,
+or copying files to or from their GoFlex Home folders.
+2. Using a paperclip, press and hold the Reset button for three (3) seconds. The reset button is
+located on the side of the GoFlex Home dock, as shown in Figure 1 on page 8.
+Caution: Don’t hold the Reset button longer than 5 seconds. Holding down the Reset button for
+10 seconds erases all your custom GoFlex Home settings (see page 77).
+
+The white drive light blinks to show that GoFlex Home is shutting down. When shutdown is
+complete, both lights turn off.
+3. Press the Power button to restart GoFlex Home if the device doesn’t restart on its own.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+85
+
+8. Solving Problems
+
+Common Problems and Solutions
+
+4. On your computer, open a Web browser (such as Explorer or Safari) and enter the GoFlex
+Home IP address in this format:
+http://GoFlexHomeIPaddress/
+For example:
+http://192.168.0.12/
+To find the IP address of GoFlex Home on a computer running the Windows operating system,
+find GoFlex Home in the list of Network devices and check its Properties. (In Windows XP, if
+GoFlex Home doesn’t appear in the network device list, click Show icons for networked
+UPnP devices in My Network Places, then follow the on-screen instructions.)
+To find the IP address of GoFlex Home on a computer running the Mac operating system,
+use the Network Utility in Finder (Applications > Utilities).
+
+Why does GoFlex Home seem to shut down by itself?
+GoFlex Home includes a power-save feature, which means that GoFlex Home enters a
+standby state after 12 minutes of no activity. GoFlex Home automatically returns to active
+mode whenever someone on your network storage system accesses their folders and files.
+
+During setup, someone else logged into the Seagate Dashboard. What can I
+do?
+The Seagate Dashboard allows you to change users. See “Logging In to the Seagate
+Dashboard” on page 37 for more information.
+Alternatively, open Seagate Share (see page 38), click Sign Out, then log back in as
+yourself.
+
+Why can’t my media player detect GoFlex Home?
+Your media player must support one of these connection technologies:
+•
+
+UPnP-AV (Universal Plug-and-Play Audio and Video)
+
+•
+
+DLNA (Digital Living Network Alliance)
+
+•
+
+Windows Media Connect
+
+If you have a large amount of files stored on GoFlex Home, it will take awhile for the files to
+be indexed and viewable from your media player. If your media device cannot detect GoFlex
+Home, try these troubleshooting tips:
+•
+
+Before your media player can discover and play the digital media files on your GoFlex
+Home, you have to make them available by selecting Share with Media Devices from
+Seagate Share. See “Enjoying Your Files on a Digital Media Player or Game Console” on
+page 55 for instructions.
+
+•
+
+Ensure that UPnP is enabled on your router. See your router documentation for
+instructions on enabling UPnP if it is disabled. You can also view
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+86
+
+8. Solving Problems
+
+Common Problems and Solutions
+
+support.goflexhome.hipserv.com for additional troubleshooting help, including a guided
+configuration tool.
+
+Why is the GoFlex Home indicator light amber?
+If GoFlex Home is connected to a power source and to a router but the top light on the front is
+not solid green, try these troubleshooting tips:
+•
+
+Ensure that the supplied power adapter is securely connected to GoFlex Home and to a
+power source. If you are using a power strip, make sure it is turned on.
+
+•
+
+Check that one end of your network cable is securely connected to the Ethernet port on
+GoFlex Home and the other end is connected to a functioning port on your network
+router.
+If the network cable is securely connected and the top light on the front of your GoFlex
+Home is amber, the network cable or the Ethernet port may not be functioning properly. To
+test this, connect the network cable to a different port on your router. If there is still no
+connection, try a different Ethernet cable or a different network.
+
+•
+
+Make sure your router is turned on.
+
+•
+
+Ensure that your router gives out IP addresses to computers on your network (DHCP)
+and that DHCP is enabled on your router. DHCP is usually enabled on home networks. If
+it is not, you will have trouble connecting to GoFlex Home. If you need assistance
+enabling DHCP on your router, see your router documentation.
+
+•
+
+Some virus protection and firewall software block network traffic for security purposes. If
+you have such software running on your network, check to see if either may be blocking
+communication.
+Create firewall exceptions for the GoFlex Home services if necessary. If you need to add
+firewall exceptions, the GoFlex Home services are: memeo.exe, hipserv.exe, and
+dashboard.exe.
+
+Ensure that UPnP is enabled on your router. See your router documentation for instructions
+on enabling UPnP if it is disabled. You can also view www.support.goflexhome.hipserv.com
+for additional troubleshooting help, including a guided router configuration tool.
+•
+
+Ensure that your router is not blocking UDP traffic. If so, you may need to open a port on
+your router. See your router documentation for instructions.
+
+•
+
+Turn off GoFlex Home by pressing the Power button and then turn it back on again.
+
+•
+
+Confirm that your Internet connection is working properly. Open a Web browser on your
+computer and then access a favorite Web site.
+
+If the top light on the front is still amber, this means that there is an issue with the Internet
+connection or GoFlex Home is not communicating with the service.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+87
+
+8. Solving Problems
+
+Decoding the GoFlex Home Lights
+
+Decoding the GoFlex Home Lights
+The lights on the front of the GoFlex Home dock change color and flash to indicate the status
+of the drive and device. This section explains the meaning of the lights and what to do if a
+problem occurs.
+Table 1:
+
+GoFlex Home Light (top)
+
+State
+
+Status
+
+Green blinking
+
+Starting up
+
+Green steady
+
+Connected to the network and ready for use
+
+Amber blinking
+
+Not connected to the network
+
+If the GoFlex Home light indicates a problem:
+•
+
+Ensure that the drive is properly and fully connected to the dock.
+
+•
+
+Ensure that your home network isn’t down or disabled. (Look at the lights on the back of
+the GoFlex Home dock—if they’re not on and blinking, GoFlex Home is not connected to
+your network.)
+
+•
+
+Ensure that the Ethernet cable connecting GoFlex Home to your router isn’t damaged.
+
+•
+
+Ensure that your Internet connection isn’t down or disabled. (Open a browser on your
+computer to check.)
+
+Table 2:
+
+Drive Light (bottom)
+
+State
+
+Status
+
+White steady
+
+Drive installed and ready for use
+
+Off
+
+Drive not properly installed or experiencing a problem
+
+If the Drive light indicates a problem:
+•
+
+Ensure that the drive is properly and fully connected to the dock.
+
+•
+
+Ensure that neither the dock nor the drive is damaged.
+
+Finding More Help
+The GoFlex Home network storage system is easy to use, but you may still have questions.
+Go to www.seagate.com/goflexhomesupport if you have any problems setting up or using
+your GoFlex Home network storage system.
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+88
+
+Index
+
+Index
+
+Seagate Share 80
+configuring Time Machine 31
+connecting GoFlex Home 13
+
+A
+
+Content panel in Seagate Share 40
+
+accessing files from home 48
+
+Cooliris 10, 41, 60
+
+accessing files while travelling 50
+
+Copy and Paste 62, 63
+
+Add New User 73
+
+copying a folder in Seagate Share 62
+
+Add to Share 66
+
+copying files in Seagate Share 63
+
+Add Users 72
+
+copying files to GoFlex Home 44
+
+adding a user account 19, 72, 73
+
+Cover 41
+
+adding capacity to GoFlex Home 75
+
+cover art for shares 67
+
+adding captions and tags to files 63
+
+Create as Administrator 73
+
+adding files to a folder in Seagate Share 62
+
+Create New Contact 68
+
+adding files to a share 65
+
+creating a share 66
+
+adding folders to Seagate Share 60
+
+creating user accounts 17, 27
+
+adding GoFlex Home applications 71
+
+customizing GoFlex Home 70
+
+adding Macs to GoFlex Home 33
+
+Cut and Paste 62
+
+adding PCs to GoFlex Home 21
+
+D
+
+Administration settings 80
+Allow Downloads 51
+Application Store 71
+Application Store panel 36
+applications, adding new 71
+Apps
+installing GoFlex Access on smartphones and
+tablets 81
+automatic backups 46
+B
+backing up your files 46
+troubleshooting 85
+Backup folder 12, 43
+
+Dashboard. See Seagate Dashboard
+Date and Time setting 79
+Delete 64
+Delete Contact 68
+deleting a share 68
+deleting a user account 73
+deleting files from Seagate Share 64
+deleting folders from Seagate Share 60
+digital video players 55
+disabling access to shares 66
+DLNA 55
+Download 64, 67
+downloading files from a share 67
+
+C
+
+downloading files from Seagate Share 64
+
+captions 63
+
+Drag and Drop 46
+
+centralized printing 54
+
+Drive light 8, 14
+
+Change button on Seagate Dashboard 36
+
+drives
+
+Change Password 70
+changing users on Seagate Dashboard 37
+ComputersBackup
+installing 29
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+adding a USB drive 75
+formatting a USB drive 80
+removing a USB drive 76
+removing the GoFlex Home drive 76
+
+89
+
+Index
+
+adding files in Seagate Share 62
+adding to Seagate Share 60
+copying in Seagate Share 62
+deleting from Seagate Share 60
+managing with Seagate Share 57
+moving files in Seagate Share 62
+moving in Seagate Share 62
+renaming in Seagate Share 62
+working in Seagate Share 41
+
+replacing the GoFlex Home drive 75
+restarting GoFlex Home 77
+shutting down GoFlex Home 77
+Drives panel on Seagate Dashboard 36
+E
+Edit Contact 68
+Edit User 74
+editing a user account 73
+e-mail address books for shares 68
+
+FTP 69
+
+e-mail address for system messages 17, 28, 79
+
+G
+
+Enable FTP access to the Internet 69
+
+gaming consoles 55
+
+Enable FTP access to your local LAN 69
+
+Gateway 79
+
+F
+
+Get Cooliris 60
+
+Facebook, copying photos to 52
+
+Go To menu 41
+
+files
+
+GoFlex Access
+
+accessing from home 48
+accessing from Seagate Share 49
+accessing from SmartFolderShortcut 49
+accessing from the Seagate Dashboard 48
+accessing remotely 50
+accessing with FTP 69
+adding captions and tags in Seagate Share 63
+adding to a folder in Seagate Share 62
+automatic backups 46
+backing up 46
+copying in Seagate Share 63
+copying to GoFlex Home 44
+creating shares 50
+deleting from Seagate Share 64
+downloading from a share 67
+downloading from Seagate Share 64
+enjoying on media devices 55
+managing with Seagate Share 57
+moving in Seagate Share 62
+playing on gaming consoles 55
+removing from a share 65
+renaming in Seagate Share 63
+sharing 50
+uploading to GoFlex Home 44
+working in Seagate Share 41
+Flickr, copying photos to 53
+folders
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+system requirements 7
+GoFlex Home
+adding a USB drive 75
+adding capacity 75
+adding Macs 33
+adding new applications 71
+adding PCs 21
+Backup folder 12, 43
+changing your password 70
+configuring Time Machine 31
+connecting 13
+customizing system settings 78
+customizing your settings 70
+Desktop Applications for Macs 29
+device features 8, 9
+device name 16, 26
+folders 12, 23, 43
+FTP access 69
+installing the software on Mac 24
+installing the software on Windows 15
+lights 8, 9, 88
+managing the device 70
+online support 88
+package contents 13
+Personal folder 12, 43
+privacy 44
+Public folder 12, 43
+
+90
+
+Index
+
+registering 18, 26
+removing a USB drive 76
+removing the GoFlex drive 76
+resetting 77
+restarting 77
+setting up on Mac 24
+setting up on Windows 15
+shutting down 77
+troubleshooting 84
+updating the software 75
+
+Load Content 44
+logging in to Seagate Share 38
+logging in to the Seagate Dashboard 22, 37
+M
+Macs
+adding to GoFlex Home 33
+configuring Time Machine 31
+GoFlex Home Agent 23
+installing GoFlex Home Desktop Applications 29
+installing the GoFlex Home software 24
+listening to music 50
+opening files 50
+setting up GoFlex Home 24
+SmartFolderShortcut 23
+SmartWebShortcut 23
+system requirements 7
+viewing photos and pictures 50
+watching movies and videos 50
+
+GoFlex Home Agent 23
+installing 29
+GoFlex Home light 8, 14
+GoFlex Home Premium Subscription 80
+H
+Help 88
+Seagate Dashboard 36
+Seagate Share 41
+Hide Help Tips setting 71
+hipserv 87
+Home Background Position setting 71
+home network manager permissions 20, 73
+Home page
+adding a background image 59
+positioning the background image 71
+How to... panel on Seagate Dashboard 36
+
+Main panel in Seagate Share 40
+Manual Upload 46
+media devices 55
+examples 55
+Memeo Instant Backup 46
+menus in Seagate Share 42
+more sharing options 51
+movies
+watching 49
+watching with Seagate Share 58
+
+I
+installing GoFlex Home Desktop Applications 29
+installing GoFlex Home software on Mac 24
+installing GoFlex Home software on Windows 15
+
+moving a folder in Seagate Share 62
+music
+listening 49
+playing in Seagate Share 57
+playing with iTunes 57
+
+Instant Backup 47
+inviting others to view your share 66
+IP addresses, finding 69, 86
+iTunes 57
+
+My Applications panel in Seagate Dashboard 36
+N
+
+L
+
+Navigation toolbar 41
+
+LAN Connection setting 79
+
+Network Services setting 79
+
+Language setting 71
+
+Network Sharing setting 78
+
+launching Seagate Dashboard 19
+
+Notifications setting 79
+
+LEDs/lights 8, 88
+
+NTP 79
+
+listening to music 49, 50
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+91
+
+Index
+
+O
+
+Notifications 79
+opening the Preferences page 78
+Remote Access 79
+removing a USB drive 76
+Server Preferences settings 78
+shutting down GoFlex Home 77
+software updates 75
+Storage Devices 80
+UPNP Router Configuration 78
+User settings 71
+
+Obtain IP Address Automatically 79
+opening files 49, 50
+opening Seagate Share 38
+opening Seagate Share menus 42
+opening the Seagate Dashboard 35
+P
+package contents 13
+passwords 20
+changing your password 70
+troubleshooting 85
+user accounts 17, 27
+PCs
+adding to GoFlex Home 21
+setting up GoFlex Home 15
+system requirements 7
+permissions 20, 73
+Personal folder 12, 43
+photos
+creating a Home page background 59
+creating cover art for shares 67
+rotating in Seagate Share 59
+sharing on Facebook 52
+sharing on Flickr 53
+sharing with RSS feeds 53
+viewing 49, 50
+viewing in a slideshow 59
+viewing in Cooliris 60
+viewing in Seagate Share 58
+playing music 57
+Power button image 9
+Preferences
+Add New User 73
+Administration settings 80
+Change Password 70
+ComputersBackup setting 80
+Date and Time 79
+Edit User 73
+LAN Connection 79
+Network Services 79
+Network Sharing 78
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+printer, setting up 54
+privacy 44
+problem-solving 84
+Public folder 12, 43
+R
+Really Simple Syndication. See RSS
+registering GoFlex Home 18, 26
+remote access
+connecting from GoFlex Access app 81
+Remote Access setting 79
+removing a USB drive 76
+removing files from a share 65
+removing the GoFlex drive 76
+Rename 62, 63, 66
+renaming a folder in Seagate Share 62
+renaming files in Seagate Share 63
+renaming shares 66
+Reset all ‘Do not show...’ setting 71
+Reset button 77
+image 9
+resetting GoFlex Home 77
+Restart 77
+restarting GoFlex Home 77
+Resume Audio Playback setting 71
+Rotate Clockwise 59
+Rotate Counterclockwise 59
+rotating a photo 59
+RSS defined 10
+RSS feeds 53
+RSS icon image 54
+
+92
+
+Index
+
+S
+Seagate Dashboard 19
+accessing your files 48
+adding a user account 19, 72
+adding new applications 71
+Application Store panel 36
+Change button 36
+changing users 37
+copying files to GoFlex Home 44
+desktop icon 35
+Drives panel 36
+features 37
+Help 36
+How to... panel 36
+logging in 22, 37
+My Applications panel 36
+navigating 36
+opening 35
+system tray icon 35
+updating the software 38
+Seagate Share
+accessing your files 49
+accessing your shares 65
+adding a user account 73
+adding captions to files 63
+adding files to a folder 62
+adding folders 60
+adding tags to files 63
+Administration settings 80
+arrow button 45
+configuring to work with iTunes 57
+Content panel 40
+Cooliris 60
+copying a folder 62
+copying files 63
+copying files to GoFlex Home 45
+copying photos to Facebook 52
+copying photos to Flickr 53
+creating a Home page background 59
+creating a share 50
+deleting a share 68
+deleting files 64
+deleting folders 60
+downloading files 64, 67
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+features 42
+Go To menu 41
+GoFlex Home Premium Subscription 80
+Help 41
+Home page image 40
+Main panel 40
+managing files and folders 57
+managing shares 64
+menus 41, 42
+moving a folder 62
+moving files to new folders 62
+navigating 40
+Navigation toolbar 41
+opening 38
+opening menus 42
+opening the Preferences page 78
+opening the Shares page 65
+playing music 57
+renaming a folder 62
+renaming files 63
+rotating a photo 59
+Search/View toolbar 41
+Server Preferences settings 78
+setting up an e-mail address book 68
+Share panel 40
+shares 50
+Shares page 65
+Shares panel 65
+sharing photos with RSS feeds 53
+signing in 38
+SmartWebShortcut 23
+viewing photos and pictures 58
+viewing photos in a slideshow 59
+viewing shares 51, 65
+watching movies and videos 58
+working with files and folders 41
+Seagate Share Pro 10
+Search/View toolbar 41
+Server IP Address 79
+Server Netmask 79
+Server Preferences settings 78
+Set date and time from the Internet 79
+setting up GoFlex Home
+on Mac 24
+
+93
+
+Index
+
+on Windows 15
+Share new content... setting 71
+
+slideshows in Seagate Share 59
+SmartFolderShortcut 23, 43
+accessing your files 49
+installing 29
+
+Share panel 40
+share until 51
+share with everyone 51
+
+SmartWebShortcut 23, 39
+installing 29
+
+Share with Facebook 52
+Share with Family Accounts 51
+
+Social Networking Sites 52
+
+Share with Flickr 53
+
+software installation
+on Mac 24
+Windows 15
+
+Share with Friends 68
+share with friends 51
+Share with Media Devices 56, 58
+share with Media Players 51
+shares
+accessing 65
+adding files 65
+creating 50
+creating cover art 67
+creating unshared shares 66
+defined 50
+deleting 68
+disabling sharing 66
+downloading files 67
+finding 65
+inviting others to view your share 66
+opening 51, 65
+removing files 65
+renaming 66
+setting up an e-mail address book 68
+viewing 51, 65
+Sharing Emails Sender setting 71
+sharing photos on Facebook 52
+sharing photos on Flickr 53
+sharing photos with RSS feeds 53
+
+Software Updates 75
+software, updating 38, 75
+solving problems 84
+Storage Devices 76, 80
+system requirements 7
+T
+tags 63
+defined 63
+Time Machine 31
+troubleshooting 84
+U
+Unshare with Media Devices 56
+updating GoFlex Home software 75
+updating the Seagate Dashboard 38
+uploading files to GoFlex Home 44
+UPNP Router Configuration setting 78
+UPnP-AV 55
+USB drives
+adding to GoFlex Home 75
+formatting with Seagate Share 80
+removing from GoFlex Home 76
+
+sharing with media devices 55
+
+USB port image 9
+
+sharing your files 50
+
+USB printer, setting up 54
+
+Shuffle 41
+
+Use as Home Page Background 59
+
+Shut Down 77
+
+Use as Share Cover 67
+
+shutting down GoFlex Home 77
+signing in to Seagate Share 38
+signing in to the Seagate Dashboard 37
+Slideshow 59
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+user accounts 17, 27
+adding 19, 72, 73
+home network manager permissions 20, 73
+password tips 20
+users
+
+94
+
+Index
+
+deleting a user account 73
+editing a user account 73
+troubleshooting 84
+V
+
+viewing photos and pictures 49, 50
+W
+watching movies and videos 49, 50
+Windows
+
+videos
+watching 49
+watching with Seagate Share 58
+View This In 3D 60
+
+FreeAgent® GoFlex™ Home User Guide (Version 2)
+
+adding computers to GoFlex Home 21
+installing software 15
+setting up GoFlex Home 15
+Wipe 80
+
+95
+
+
